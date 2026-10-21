@@ -1,0 +1,66 @@
+{
+  "checks": [
+    {
+      "name": "form complete",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "name": "every critique names a location",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "name": "every Poor or Marginal score has a critique",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "name": "nothing fabricated (text matching)",
+      "pass": false,
+      "failures": {
+        "quotes not found in manuscript": [
+          {
+            "critique": 16,
+            "quote": "we help bridge the bifurcation between entrepreneur-centric and investor-centric views"
+          }
+        ],
+        "numbers not found in manuscript": [
+          {
+            "critique": 5,
+            "number": "4.5"
+          },
+          {
+            "critique": 6,
+            "number": "1011"
+          }
+        ],
+        "citations not in manuscript and not declared external": []
+      },
+      "for_human_verification": [
+        {
+          "critique": 15,
+          "citation": "Leland & Pyle (1977)",
+          "status": "declared external; verify by hand"
+        },
+        {
+          "critique": 15,
+          "citation": "Ahlers et al. (2015)",
+          "status": "declared external; verify by hand"
+        },
+        {
+          "critique": 15,
+          "citation": "Leland, H. E., & Pyle, D. H. (1977). Informational asymmetries, financial structure, and financial intermediation. Journal of Finance, 32(2), 371–387.",
+          "status": "declared external; verify by hand"
+        },
+        {
+          "critique": 15,
+          "citation": "Ahlers, G. K. C., Cumming, D., Günther, C., & Schweizer, D. (2015). Signaling in equity crowdfunding. Entrepreneurship Theory and Practice, 39(4), 955–980.",
+          "status": "declared external; verify by hand"
+        }
+      ]
+    }
+  ],
+  "all_pass": false,
+  "critique_count": 17
+}

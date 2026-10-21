@@ -1,0 +1,22 @@
+{
+  "journal": "Organization Science",
+  "source_note": "The eight scored rows and five rating levels are transcribed from a completed Organization Science reviewer form (ScholarOne). The recommendation options and the two free-text fields use generic ScholarOne wording and are PROVISIONAL until the journal's blank reviewer page is transcribed (Scott's v4 plan, Stage 1).",
+  "rating_levels": ["Poor", "Marginal", "Satisfactory", "Very Good", "Excellent"],
+  "ratings_requiring_explanation": ["Poor", "Marginal"],
+  "rows": [
+    {"id": "importance", "label": "Importance of Problem"},
+    {"id": "relevance", "label": "Relevance to Organization Science"},
+    {"id": "literature", "label": "Incorporation of Relevant Literature"},
+    {"id": "theory", "label": "Development of Theory"},
+    {"id": "design", "label": "Appropriateness of Design"},
+    {"id": "analysis", "label": "Appropriateness of Analysis and Interpretation"},
+    {"id": "conclusions", "label": "Legitimacy of Conclusions"},
+    {"id": "writing", "label": "Writing Clarity and Organization"}
+  ],
+  "recommendation_options": ["Accept", "Minor Revision", "Major Revision", "Reject"],
+  "recommendation_provisional": true,
+  "free_text_fields": [
+    {"id": "comments_to_editor", "label": "Confidential Comments to the Editor", "provisional": true},
+    {"id": "comments_to_authors", "label": "Comments to the Author", "provisional": true}
+  ]
+}

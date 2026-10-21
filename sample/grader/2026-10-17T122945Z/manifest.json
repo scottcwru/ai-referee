@@ -1,0 +1,741 @@
+{
+  "run_id": "2026-10-17T122945Z",
+  "reviewer_run": "2026-10-17T110416Z",
+  "grader": {
+    "vendor": "google",
+    "model": "gemini-3.8-flash",
+    "settings": {
+      "temperature": "model default (Google advises against lowering it on Gemini 3 models)",
+      "response_mime_type": "application/json",
+      "thinking_level": "low",
+      "max_output_tokens": 65536
+    },
+    "price_per_million": {
+      "input": 0.75,
+      "output": 3.75,
+      "cache_read": 0.0
+    },
+    "price_note": "Paid-tier rates as reported by third-party pricing pages on 2026-10-17 (Google's own pricing page refused automated access); to be confirmed against ai.google.dev/pricing. No cached content is used, so the cache-read rate is not applied. Output price covers thinking tokens."
+  },
+  "prompt": {
+    "template": "grader/prompt.md",
+    "segment_template": "grader/prompt-segment.md",
+    "as_sent_sha256": "37d359c17eb5e3980ebe8cec5a25471bdc086efe0db3fa991e7e8ea4190354e7",
+    "codebook_sha256": "b8171d64be1a147aa1bda8e5021af35ac043b36227cdea907e1cbe7ba8b24d98",
+    "instructions_sha256": "05e4d9deafb03e7caea769c7b1f7e53f70e572f7dced0f0dbf852a361072b2e4"
+  },
+  "reviews_coded": [
+    {
+      "review": "claude",
+      "arm": "ai",
+      "words": 2579,
+      "text_in_repository": true
+    },
+    {
+      "review": "chatgpt",
+      "arm": "ai",
+      "words": 1523,
+      "text_in_repository": true
+    }
+  ],
+  "keys_file": "sample-private\\keys.env",
+  "totals": {
+    "calls": 110,
+    "failed_calls": 0,
+    "input_tokens": 723489,
+    "cache_read_tokens": 36155,
+    "output_tokens": 19778,
+    "elapsed_seconds": 677.2,
+    "cost_usd": 0.6168,
+    "models_served": [
+      "gemini-3.8-flash"
+    ]
+  },
+  "failures": [],
+  "calls": [
+    {
+      "label": "segment:claude",
+      "started_utc": "2026-10-17T12:29:45+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 4196,
+      "cache_read_tokens": 0,
+      "output_tokens": 5515,
+      "elapsed_seconds": 41.1
+    },
+    {
+      "label": "code:claude:1",
+      "started_utc": "2026-10-17T12:30:26+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7129,
+      "cache_read_tokens": 0,
+      "output_tokens": 66,
+      "elapsed_seconds": 2.3
+    },
+    {
+      "label": "code:claude:2",
+      "started_utc": "2026-10-17T12:30:29+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7158,
+      "cache_read_tokens": 0,
+      "output_tokens": 66,
+      "elapsed_seconds": 4.6
+    },
+    {
+      "label": "code:claude:3",
+      "started_utc": "2026-10-17T12:30:33+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7150,
+      "cache_read_tokens": 0,
+      "output_tokens": 68,
+      "elapsed_seconds": 14.5
+    },
+    {
+      "label": "code:claude:4",
+      "started_utc": "2026-10-17T12:30:48+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7147,
+      "cache_read_tokens": 0,
+      "output_tokens": 99,
+      "elapsed_seconds": 3.3
+    },
+    {
+      "label": "code:claude:5",
+      "started_utc": "2026-10-17T12:30:51+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7151,
+      "cache_read_tokens": 0,
+      "output_tokens": 67,
+      "elapsed_seconds": 1.9
+    },
+    {
+      "label": "code:claude:6",
+      "started_utc": "2026-10-17T12:30:53+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7122,
+      "cache_read_tokens": 0,
+      "output_tokens": 67,
+      "elapsed_seconds": 2.3
+    },
+    {
+      "label": "code:claude:7",
+      "started_utc": "2026-10-17T12:30:55+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7119,
+      "cache_read_tokens": 0,
+      "output_tokens": 82,
+      "elapsed_seconds": 3.2
+    },
+    {
+      "label": "code:claude:8",
+      "started_utc": "2026-10-17T12:30:58+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7330,
+      "cache_read_tokens": 0,
+      "output_tokens": 93,
+      "elapsed_seconds": 2.2
+    },
+    {
+      "label": "code:claude:9",
+      "started_utc": "2026-10-17T12:31:01+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7349,
+      "cache_read_tokens": 0,
+      "output_tokens": 86,
+      "elapsed_seconds": 12.5
+    },
+    {
+      "label": "code:claude:10",
+      "started_utc": "2026-10-17T12:31:13+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7262,
+      "cache_read_tokens": 0,
+      "output_tokens": 76,
+      "elapsed_seconds": 2.6
+    },
+    {
+      "label": "code:claude:11",
+      "started_utc": "2026-10-17T12:31:16+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7281,
+      "cache_read_tokens": 0,
+      "output_tokens": 77,
+      "elapsed_seconds": 3.4
+    },
+    {
+      "label": "code:claude:12",
+      "started_utc": "2026-10-17T12:31:19+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7236,
+      "cache_read_tokens": 0,
+      "output_tokens": 87,
+      "elapsed_seconds": 3.2
+    },
+    {
+      "label": "code:claude:13",
+      "started_utc": "2026-10-17T12:31:22+00:00",
+      "retries": 1,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7184,
+      "cache_read_tokens": 0,
+      "output_tokens": 66,
+      "elapsed_seconds": 8.0
+    },
+    {
+      "label": "code:claude:14",
+      "started_utc": "2026-10-17T12:31:30+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7182,
+      "cache_read_tokens": 0,
+      "output_tokens": 74,
+      "elapsed_seconds": 9.0
+    },
+    {
+      "label": "code:claude:15",
+      "started_utc": "2026-10-17T12:31:39+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7204,
+      "cache_read_tokens": 0,
+      "output_tokens": 70,
+      "elapsed_seconds": 2.8
+    },
+    {
+      "label": "code:claude:16",
+      "started_utc": "2026-10-17T12:31:42+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7185,
+      "cache_read_tokens": 0,
+      "output_tokens": 71,
+      "elapsed_seconds": 8.1
+    },
+    {
+      "label": "code:claude:17",
+      "started_utc": "2026-10-17T12:31:50+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7140,
+      "cache_read_tokens": 0,
+      "output_tokens": 67,
+      "elapsed_seconds": 2.2
+    },
+    {
+      "label": "code:claude:18",
+      "started_utc": "2026-10-17T12:31:53+00:00",
+      "retries": 1,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7347,
+      "cache_read_tokens": 0,
+      "output_tokens": 92,
+      "elapsed_seconds": 10.4
+    },
+    {
+      "label": "code:claude:19",
+      "started_utc": "2026-10-17T12:32:03+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7201,
+      "cache_read_tokens": 0,
+      "output_tokens": 80,
+      "elapsed_seconds": 10.0
+    },
+    {
+      "label": "code:claude:20",
+      "started_utc": "2026-10-17T12:32:13+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7225,
+      "cache_read_tokens": 0,
+      "output_tokens": 73,
+      "elapsed_seconds": 2.1
+    },
+    {
+      "label": "code:claude:21",
+      "started_utc": "2026-10-17T12:32:15+00:00",
+      "retries": 1,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 2022,
+      "cache_read_tokens": 5107,
+      "output_tokens": 63,
+      "elapsed_seconds": 14.1
+    },
+    {
+      "label": "code:claude:22",
+      "started_utc": "2026-10-17T12:32:29+00:00",
+      "retries": 1,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 2023,
+      "cache_read_tokens": 5135,
+      "output_tokens": 81,
+      "elapsed_seconds": 11.5
+    },
+    {
+      "label": "code:claude:23",
+      "started_utc": "2026-10-17T12:32:41+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7117,
+      "cache_read_tokens": 0,
+      "output_tokens": 67,
+      "elapsed_seconds": 8.5
+    },
+    {
+      "label": "code:claude:24",
+      "started_utc": "2026-10-17T12:32:49+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7149,
+      "cache_read_tokens": 0,
+      "output_tokens": 67,
+      "elapsed_seconds": 8.4
+    },
+    {
+      "label": "code:claude:25",
+      "started_utc": "2026-10-17T12:32:58+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7115,
+      "cache_read_tokens": 0,
+      "output_tokens": 67,
+      "elapsed_seconds": 28.6
+    },
+    {
+      "label": "code:claude:26",
+      "started_utc": "2026-10-17T12:33:26+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7191,
+      "cache_read_tokens": 0,
+      "output_tokens": 76,
+      "elapsed_seconds": 3.9
+    },
+    {
+      "label": "code:claude:27",
+      "started_utc": "2026-10-17T12:33:30+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7227,
+      "cache_read_tokens": 0,
+      "output_tokens": 85,
+      "elapsed_seconds": 5.3
+    },
+    {
+      "label": "code:claude:28",
+      "started_utc": "2026-10-17T12:33:35+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7125,
+      "cache_read_tokens": 0,
+      "output_tokens": 67,
+      "elapsed_seconds": 3.6
+    },
+    {
+      "label": "code:claude:29",
+      "started_utc": "2026-10-17T12:33:39+00:00",
+      "retries": 1,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7159,
+      "cache_read_tokens": 0,
+      "output_tokens": 67,
+      "elapsed_seconds": 9.1
+    },
+    {
+      "label": "code:claude:30",
+      "started_utc": "2026-10-17T12:33:48+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7305,
+      "cache_read_tokens": 0,
+      "output_tokens": 91,
+      "elapsed_seconds": 4.1
+    },
+    {
+      "label": "code:claude:31",
+      "started_utc": "2026-10-17T12:33:52+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7261,
+      "cache_read_tokens": 0,
+      "output_tokens": 90,
+      "elapsed_seconds": 3.3
+    },
+    {
+      "label": "code:claude:32",
+      "started_utc": "2026-10-17T12:33:56+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7133,
+      "cache_read_tokens": 0,
+      "output_tokens": 89,
+      "elapsed_seconds": 9.0
+    },
+    {
+      "label": "code:claude:33",
+      "started_utc": "2026-10-17T12:34:05+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7172,
+      "cache_read_tokens": 0,
+      "output_tokens": 78,
+      "elapsed_seconds": 4.8
+    },
+    {
+      "label": "code:claude:34",
+      "started_utc": "2026-10-17T12:34:09+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7162,
+      "cache_read_tokens": 0,
+      "output_tokens": 69,
+      "elapsed_seconds": 1.7
+    },
+    {
+      "label": "code:claude:35",
+      "started_utc": "2026-10-17T12:34:11+00:00",
+      "retries": 1,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 2023,
+      "cache_read_tokens": 5169,
+      "output_tokens": 70,
+      "elapsed_seconds": 7.9
+    },
+    {
+      "label": "code:claude:36",
+      "started_utc": "2026-10-17T12:34:19+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7339,
+      "cache_read_tokens": 0,
+      "output_tokens": 92,
+      "elapsed_seconds": 3.9
+    },
+    {
+      "label": "code:claude:37",
+      "started_utc": "2026-10-17T12:34:23+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7147,
+      "cache_read_tokens": 0,
+      "output_tokens": 68,
+      "elapsed_seconds": 3.5
+    },
+    {
+      "label": "code:claude:38",
+      "started_utc": "2026-10-17T12:34:26+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7183,
+      "cache_read_tokens": 0,
+      "output_tokens": 76,
+      "elapsed_seconds": 2.7
+    },
+    {
+      "label": "code:claude:39",
+      "started_utc": "2026-10-17T12:34:29+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7144,
+      "cache_read_tokens": 0,
+      "output_tokens": 64,
+      "elapsed_seconds": 1.8
+    },
+    {
+      "label": "code:claude:40",
+      "started_utc": "2026-10-17T12:34:31+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7155,
+      "cache_read_tokens": 0,
+      "output_tokens": 89,
+      "elapsed_seconds": 3.5
+    },
+    {
+      "label": "code:claude:41",
+      "started_utc": "2026-10-17T12:34:34+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7100,
+      "cache_read_tokens": 0,
+      "output_tokens": 70,
+      "elapsed_seconds": 3.3
+    },
+    {
+      "label": "code:claude:42",
+      "started_utc": "2026-10-17T12:34:38+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7152,
+      "cache_read_tokens": 0,
+      "output_tokens": 69,
+      "elapsed_seconds": 3.1
+    },
+    {
+      "label": "code:claude:43",
+      "started_utc": "2026-10-17T12:34:41+00:00",
+      "retries": 2,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7159,
+      "cache_read_tokens": 0,
+      "output_tokens": 71,
+      "elapsed_seconds": 22.1
+    },
+    {
+      "label": "code:claude:44",
+      "started_utc": "2026-10-17T12:35:03+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7128,
+      "cache_read_tokens": 0,
+      "output_tokens": 64,
+      "elapsed_seconds": 2.9
+    },
+    {
+      "label": "segment:chatgpt",
+      "started_utc": "2026-10-17T12:35:06+00:00",
+      "retries": 1,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 2276,
+      "cache_read_tokens": 0,
+      "output_tokens": 2275,
+      "elapsed_seconds": 18.5
+    },
+    {
+      "label": "code:chatgpt:1",
+      "started_utc": "2026-10-17T12:35:24+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7164,
+      "cache_read_tokens": 0,
+      "output_tokens": 64,
+      "elapsed_seconds": 2.6
+    },
+    {
+      "label": "code:chatgpt:2",
+      "started_utc": "2026-10-17T12:35:27+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7181,
+      "cache_read_tokens": 0,
+      "output_tokens": 67,
+      "elapsed_seconds": 16.6
+    },
+    {
+      "label": "code:chatgpt:3",
+      "started_utc": "2026-10-17T12:35:44+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7285,
+      "cache_read_tokens": 0,
+      "output_tokens": 81,
+      "elapsed_seconds": 10.0
+    },
+    {
+      "label": "code:chatgpt:4",
+      "started_utc": "2026-10-17T12:35:54+00:00",
+      "retries": 1,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 2023,
+      "cache_read_tokens": 5198,
+      "output_tokens": 76,
+      "elapsed_seconds": 12.1
+    },
+    {
+      "label": "code:chatgpt:5",
+      "started_utc": "2026-10-17T12:36:06+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7214,
+      "cache_read_tokens": 0,
+      "output_tokens": 82,
+      "elapsed_seconds": 2.2
+    },
+    {
+      "label": "code:chatgpt:6",
+      "started_utc": "2026-10-17T12:36:08+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7194,
+      "cache_read_tokens": 0,
+      "output_tokens": 72,
+      "elapsed_seconds": 3.0
+    },
+    {
+      "label": "code:chatgpt:7",
+      "started_utc": "2026-10-17T12:36:11+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7208,
+      "cache_read_tokens": 0,
+      "output_tokens": 75,
+      "elapsed_seconds": 4.7
+    },
+    {
+      "label": "code:chatgpt:8",
+      "started_utc": "2026-10-17T12:36:16+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7195,
+      "cache_read_tokens": 0,
+      "output_tokens": 80,
+      "elapsed_seconds": 4.2
+    },
+    {
+      "label": "code:chatgpt:9",
+      "started_utc": "2026-10-17T12:36:20+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7222,
+      "cache_read_tokens": 0,
+      "output_tokens": 73,
+      "elapsed_seconds": 1.6
+    },
+    {
+      "label": "code:chatgpt:10",
+      "started_utc": "2026-10-17T12:36:21+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7224,
+      "cache_read_tokens": 0,
+      "output_tokens": 71,
+      "elapsed_seconds": 5.3
+    },
+    {
+      "label": "code:chatgpt:11",
+      "started_utc": "2026-10-17T12:36:27+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7198,
+      "cache_read_tokens": 0,
+      "output_tokens": 79,
+      "elapsed_seconds": 4.0
+    },
+    {
+      "label": "code:chatgpt:12",
+      "started_utc": "2026-10-17T12:36:31+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 2023,
+      "cache_read_tokens": 5160,
+      "output_tokens": 84,
+      "elapsed_seconds": 4.6
+    },
+    {
+      "label": "code:chatgpt:13",
+      "started_utc": "2026-10-17T12:36:35+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7214,
+      "cache_read_tokens": 0,
+      "output_tokens": 81,
+      "elapsed_seconds": 4.5
+    },
+    {
+      "label": "code:chatgpt:14",
+      "started_utc": "2026-10-17T12:36:40+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7180,
+      "cache_read_tokens": 0,
+      "output_tokens": 75,
+      "elapsed_seconds": 3.3
+    },
+    {
+      "label": "code:chatgpt:15",
+      "started_utc": "2026-10-17T12:36:43+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7153,
+      "cache_read_tokens": 0,
+      "output_tokens": 73,
+      "elapsed_seconds": 2.8
+    },
+    {
+      "label": "code:chatgpt:16",
+      "started_utc": "2026-10-17T12:36:46+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "finish_reason": "FinishReason.STOP",
+      "input_tokens": 7155,
+      "cache_read_tokens": 0,
+      "output_tokens": 63,
+      "elapsed_seconds": 2.9
+    }
+  ],
+  "finished_utc": "2026-10-17T12:41:03+00:00",
+  "journal_reviews_withheld": "The referee reports and decision letter were also coded in this run; their entries are withheld from the public repository and reported in the technical appendix. Totals include them."
+}

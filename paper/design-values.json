@@ -1,0 +1,6 @@
+{
+  "sample_size": 100,
+  "alpha": 0.05,
+  "power": 0.8,
+  "reliability_percent": 20
+}

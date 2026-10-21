@@ -1,0 +1,142 @@
+```json
+{
+  "ratings": {
+    "importance": "Satisfactory",
+    "relevance": "Satisfactory",
+    "literature": "Marginal",
+    "theory": "Poor",
+    "design": "Poor",
+    "analysis": "Poor",
+    "conclusions": "Poor",
+    "writing": "Marginal"
+  },
+  "recommendation": "Reject",
+  "comments_to_editor": "The question is practically interesting: should founders put deal terms in pitch decks? Study 1 is a reasonable randomized vignette design with real accelerator decks. However, I cannot recommend the paper move forward at this journal, for four reasons.\n\n(1) Study 2 does not test the mechanism of the Study 1 effect. Study 1 manipulates presence versus absence of a deal slide. Study 2 manipulates only high versus low values, with no no-slide condition. Yet H2a–H2g and all conclusions refer to 'deal-term inclusion.'\n\n(2) The mediation results do not hold together. The reported a path (−0.27, high reduces ambiguity) and b paths (−0.18 to −0.24, ambiguity lowers favorability) imply a positive indirect effect. Table 12 reports negative indirect effects. Moreover, the substantive story (disclosure reduces ambiguity, which raises favorability) predicts the opposite of the Study 1 main effect. The Discussion and conclusion end up recommending disclosure, contrary to Study 1.\n\n(3) Measurement problems weaken the mediation test:\n- The ambiguity items include outcome content ('reduced my willingness to invest').\n- The ambiguity items overlap heavily with the decision-avoidance items.\n- Table 9 reports correlations and significance markings that are hard to reconcile with N = 2,592. For example, r = .10 to .12 is left unmarked while r = −.09 is marked p < .001.\n\n(4) Further problems:\n- Sample arithmetic in Study 1 does not add up (1,056 − 45 ≠ 1,008).\n- Text and tables disagree in several places.\n- Many in-text citations are missing from the reference list.\n- The theory development amounts to a list of seven mechanisms with no a priori predictions.\n\nThe contribution to organization theory is thin even if the empirics were sound. These are not issues a revision can fix without new data, a redesigned Study 2, and a re-theorized argument. I did not attempt to identify the authors.",
+  "summary_for_authors": "The manuscript asks whether including quantitative deal terms (valuation, raise size, equity offered) in startup pitch decks helps or harms founders. Study 1 randomly adds a deal-terms slide to real Techstars decks evaluated by 88 investors (1,008 evaluations). It reports that the slide lowers four measures of investor favorability, regardless of whether terms are favorable or unfavorable. Study 2 uses 216 Prolific participants who evaluate decks with high versus low deal-term values. It tests seven candidate mediators and concludes that perceived ambiguity is the sole, full mediator. The topic matters to practitioners, and the use of real decks and random assignment in Study 1 is a strength.\n\nHowever, I have serious concerns that, in my judgment, go to the core of the paper.\n- **Study 2 tests a different manipulation.** It varies the magnitude of terms rather than their presence, so it cannot identify why inclusion lowers favorability.\n- **The mediation signs do not reconcile.** The reported a and b paths imply a positive indirect effect, yet Table 12 reports negative ones.\n- **The mechanism story contradicts Study 1.** Disclosure reduces ambiguity and reduced ambiguity raises favorability, which predicts a positive effect of disclosure. This contradicts the Study 1 main effect, and the Discussion ends up recommending disclosure.\n- **Mediator measures are confounded.** They overlap with outcomes and with one another.\n- **There are numerical inconsistencies** across the samples, tables and text.\n- **Theory development is limited.** It consists of an enumeration of seven mechanisms without directional predictions.\n\nI detail these and other issues below.",
+  "critiques": [
+    {
+      "id": 1,
+      "location": "Study 2, Methods, p. 20; Hypotheses H2a–H2g, p. 19",
+      "quote": "The independent variable was the randomized numerical framing of the deal terms",
+      "text": "Study 1 establishes an effect of deal-term inclusion (slide vs. no slide). Study 2's independent variable is high vs. low values, and every Study 2 deck contains a deal slide. Yet H2a–H2g are all stated as mediating 'the relationship between deal-term inclusion and investor favorability.' A mediator of the high-vs-low contrast is not evidence about why inclusion matters. The Introduction (p. 4), General Discussion (p. 25) and Abstract nonetheless present Study 2 as explaining the Study 1 effect. To test the stated hypotheses, Study 2 needs a no-slide control condition (ideally with a placebo-slide condition as well). The a, b and indirect effects must be estimated for the inclusion contrast.",
+      "rows": ["design", "theory", "conclusions"]
+    },
+    {
+      "id": 2,
+      "location": "Study 2, Results, p. 23; Tables 10, 11 and 12",
+      "quote": "manipulation significantly reduced perceived ambiguity",
+      "text": "The signs of the mediation results do not reconcile.\n- Table 10 reports a = −0.27: the high condition reduces ambiguity.\n- Table 11 reports b = −0.21, −0.24, −0.19, −0.18: ambiguity reduces favorability.\n- The product a × b is therefore positive (e.g., −0.27 × −0.21 ≈ +0.06), not negative.\n- Table 12 nonetheless reports indirect effects of −0.06, −0.07, −0.05 and −0.04.\n\nTable 9 also shows the condition correlating negatively with all outcomes (e.g., −.09, −.11). If the indirect path through ambiguity is positive, ambiguity would be a suppressor (inconsistent mediation), not a full mediator. Please re-estimate, report the full a, b, c and c' estimates with confidence intervals for each outcome, and explain the sign of every path.",
+      "rows": ["analysis", "conclusions"]
+    },
+    {
+      "id": 3,
+      "location": "General Discussion, p. 25 and conclusion, p. 28",
+      "quote": "By clarifying, rather than concealing ambiguity, founders can frame their opportunities in a way that elicits more favorable and confident investor responses.",
+      "text": "The interpretation contradicts the paper's own main finding. Study 1 reports that adding deal terms lowers favorability (support for H1b). The Discussion, however, claims that quantitative disclosure reduces ambiguity, which 'in turn, increased investors’ willingness to engage' (p. 25). It then advises founders to disclose (pp. 27–28). If disclosure reduces ambiguity and reduced ambiguity raises favorability, the ambiguity account predicts H1a, not H1b. The paper needs a coherent account of how one mechanism can produce a negative total effect of disclosure, or it must abandon the claim that ambiguity explains the Study 1 effect.",
+      "rows": ["conclusions", "theory"]
+    },
+    {
+      "id": 4,
+      "location": "Appendix, Table S1 (Ambiguity aversion and Decision avoidance items)",
+      "quote": "Ambiguous information about this deck reduced my willingness to",
+      "text": "The ambiguity scale has three problems.\n- **It embeds the outcome.** One item asks whether ambiguity 'reduced my willingness to invest,' which overlaps with the Next Steps and Share with Others measures. This guarantees a b path.\n- **It overlaps with decision avoidance.** Its items ('ambiguous or missing key metrics made me uneasy') are nearly identical in wording to the decision-avoidance items ('missing or vague key metrics made me want to delay my evaluation'). This undermines the claim that the two constructs were discriminated.\n- **It may not fit the stimuli.** In Study 2 every deck contains a deal slide, so it is unclear what 'missing' metrics respondents were reacting to.\n\nPlease provide CFA evidence of discriminant validity, and drop or replace items that contain outcome content. Measuring mediators and outcomes in the same post-exposure survey also invites common-method inflation of the b paths.",
+      "rows": ["design", "analysis"]
+    },
+    {
+      "id": 5,
+      "location": "Table 9 (Study 2 descriptives and correlations), p. 41; Table 10, p. 42",
+      "quote": "N = 2,592 pitch-level observations; 216 participants.",
+      "text": "Several values in Tables 9 and 10 are difficult to reconcile.\n- **Significance markings.** With N = 2,592, correlations of about |r| ≥ .04 reach p < .05 and |r| ≥ .07 reach p < .001. Yet r = .10, .11 and .12 (e.g., ambiguity–decision avoidance; reactance–cognitive load) are unmarked, while r = −.09 is marked p < .001.\n- **Near-zero correlations.** It is surprising that seven mediators measured with overlapping wording correlate almost zero with one another and with the outcomes.\n- **Table 10 t-statistic.** The ambiguity a path reports β = −0.27, SE = 0.06, t = −4.21, but −0.27/0.06 = −4.5.\n- **Success Odds metric.** The Success Odds mean of 1.72 (SD 0.84) is not on the metric described on p. 10, which is a sum of four probabilities in percent.\n\nPlease audit these statistics and state clearly whether correlations account for nesting.",
+      "rows": ["analysis"]
+    },
+    {
+      "id": 6,
+      "location": "Study 1, Methods, p. 8",
+      "quote": "Forty-five evaluations were not completed due to a software issue",
+      "text": "88 investors × 12 decks = 1,056 potential evaluations; removing 45 leaves 1,011, not 1,008. Please reconcile the numbers.\n\nPlease also clarify the following:\n- whether the software failure was independent of condition (e.g., more frequent for longer, treated decks);\n- how investors were recruited;\n- what 'investor' means for a sample with a mean age of 28.1 whose screening criterion was having 'evaluated at least one early-stage startup';\n- the distribution of actual investment experience.",
+      "rows": ["design", "analysis"]
+    },
+    {
+      "id": 7,
+      "location": "Study 1, Methods, pp. 8–9",
+      "quote": "we added a single slide within the deck",
+      "text": "The treatment confounds deal-term content with simply adding a slide: a longer deck, a different ending, and a slide not written by the founders. A placebo condition (an added non-financial slide in the same visual style) is needed to support the claim that 'the inclusion of quantitative deal information itself' drives the effect (p. 14).\n\nThe design is also within-subject, with each investor seeing roughly half the decks with a deal slide. Investors therefore experience the contrast across decks, which may create salience or demand effects. Please report results using only each investor's first deck, or test for order and carryover effects.\n\nPlease also add:\n- manipulation checks;\n- a power analysis;\n- preregistration information, if any.",
+      "rows": ["design"]
+    },
+    {
+      "id": 8,
+      "location": "Study 1, Methods, p. 9 vs. Study 2, Methods, p. 20",
+      "quote": "we also created favorable (i.e., high) and unfavorable (i.e., low) versions of the deal from the investor’s perspective",
+      "text": "The coding of 'high' is inconsistent across the two studies and dimensions.\n- **Study 1** treats 'high' as investor-favorable.\n- **Study 2** states that 'High values were intended to represent more aggressive, entrepreneur-favorable deal positions.'\n- **Within dimensions**, a higher valuation is unfavorable to investors, while a higher ownership stake sold is favorable. So 'high' cannot uniformly mean favorable.\n\nPlease specify the following:\n- the exact values used for each deck and condition;\n- whether each slide displayed one term or all terms;\n- why 'amount already committed' was included, given that the hypotheses define deal terms as valuation, capital and equity.\n\nWithout this, the claim that effects held 'irrespective of whether the terms are favorable or unfavorable' cannot be evaluated.",
+      "rows": ["design", "writing"]
+    },
+    {
+      "id": 9,
+      "location": "Study 1, Results, pp. 11–13; Tables 2, 4, 6 and 7",
+      "quote": "being good (Table 6)",
+      "text": "There are several text–table discrepancies.\n- **Table labels.** The text assigns Good Business to Table 6 and Next Steps to Table 7, but Table 6 is titled Next Steps and Table 7 Good Business.\n- **Next Steps, Model 3.** The text reports β = −.11 with t = 5.12 (Table 2). A coefficient that falls from −.16 to −.11 while its t-statistic rises is unusual and should be explained.\n- **Share with Others, Model 2.** The t-statistic is 3.76 with the same β as Models 1 and 3 (t = 4.68 and 4.79).\n- **Committed coefficient.** In Table 6, Committed = −.03 is marked significant, whereas the same −0.03 in Table 2 is not.\n\nPlease audit all tables. Please also state whether the β values are standardized coefficients and report effects in scale units.",
+      "rows": ["analysis", "writing"]
+    },
+    {
+      "id": 10,
+      "location": "Study 1, Results, p. 10; Table 1",
+      "quote": "(β = -.11, t = 3.48, p < .001)",
+      "text": "The economic magnitude of the effect is not discussed. R² is 0.01–0.02 in the treatment-only models, and it is unclear whether β is standardized. Please translate the effect into the original units, for example scale points on the 7-point Next Steps measure and percentage points of exit probability. Then discuss whether the effect is practically meaningful for founders, given that the paper draws practitioner recommendations from it.",
+      "rows": ["analysis", "importance"]
+    },
+    {
+      "id": 11,
+      "location": "Study 1, Results, p. 13; footnote 2, p. 12; p. 15",
+      "quote": "Second, we confirmed that the specific dimensions of the deal terms manipulated did not influence the outcome.",
+      "text": "This conclusion is not supported by the evidence described. The ownership-stake manipulation was significant for only two of four outcomes and committed capital for three of four. Differences in significance are not tests of moderation; formal treatment × dimension interaction tests are needed.\n\nThe robustness checks are also only summarized ('we summarize the findings of these tests rather than produce tables'), including:\n- 'exclusion of outliers' (outlier criteria are unspecified);\n- random-effects models;\n- investor-experience controls.\n\nThese should be reported in an appendix.",
+      "rows": ["analysis", "conclusions"]
+    },
+    {
+      "id": 12,
+      "location": "Study 2, Methods, p. 20; General Discussion, p. 27",
+      "quote": "recruited through Prolific",
+      "text": "The Study 2 sample has problems of fit and description.\n- **Not investors.** Study 2 uses Prolific respondents screened only for 'previous exposure to entrepreneurial or investment decision-making.' The Limitations section nonetheless describes both studies as using 'professional or semi-professional investors.'\n- **Unexplained phrasing.** 'As in Study 1' is unclear because Study 1 did not use Prolific.\n- **Exposure to versions.** The design says participants 'viewed versions of the same startup pitch.' If participants saw both high and low versions of the same startup, the manipulation would be transparent.\n\nPlease describe exactly which decks and versions each participant saw. Please also justify generalizing a mechanism identified among lay respondents to early-stage investors.",
+      "rows": ["design", "conclusions"]
+    },
+    {
+      "id": 13,
+      "location": "Study 2, Methods, p. 22; footnote 4, p. 24",
+      "quote": "was modeled separately, as were each of the four deal-factor contexts.",
+      "text": "The analysis has several gaps.\n- **Separate models not reported.** The analysis plan describes separate models for each of four outcomes and four deal-factor contexts, but only pooled estimates are reported.\n- **Multiplicity.** There is no correction across the many mediator × outcome × context tests.\n- **Model structure.** Startups are crossed with participants, yet only participant random intercepts are modeled. The meaning of 'aggregated at the pitch level' (p. 21) is also unclear.\n- **Full mediation unsupported.** The claim of 'full mediation' (p. 24) is not backed by a reported total effect or a c' estimate in any table.\n- **Footnote 4.** It says regression tables for the other mediators are omitted, yet Table 11 reports them.\n\nPlease report the complete multilevel mediation (e.g., 1-1-1 models with random slopes as appropriate) for each outcome.",
+      "rows": ["analysis"]
+    },
+    {
+      "id": 14,
+      "location": "Study 2, Conceptual Framework, Ambiguity Aversion, pp. 15–16",
+      "quote": "quantitative deal information can play a crucial role in mitigating perceived ambiguity.",
+      "text": "The theory has three problems.\n- **Construct mismatch.** Ambiguity aversion (Ellsberg, 1961; Camerer & Weber, 1992) is a preference for known over unknown probabilities. What is measured is perceived informational ambiguity. The title and contribution claims ('pinpointing ambiguity aversion as the psychological mechanism', p. 5) therefore overstate what was tested.\n- **No account of magnitude.** No argument is offered for why entrepreneur-favorable (high) terms should reduce ambiguity more than conservative terms. That is the contrast actually manipulated.\n- **No theory development.** The seven hypotheses are non-directional, and 'no a priori prediction is made' (p. 19). The paper therefore reads as a horse race among labels rather than as theory development.\n\nSeveral of the alternatives are also tested with self-report items that are ill-suited to them, for example asking respondents how much their judgment 'stay[ed] close to those key metrics' to measure anchoring. Anchoring and loss aversion typically operate outside introspective access. Their null results thus say little about whether those mechanisms operate.",
+      "rows": ["theory", "design"]
+    },
+    {
+      "id": 15,
+      "location": "Introduction, p. 2; Study 1 Conceptual Framework, p. 7; References",
+      "quote": "(Petty and Gruber, 2021)",
+      "text": "Many in-text citations do not appear in the reference list, including:\n- Florida & Kenney (1988), Roure et al. (1986), Gompers et al. (2020), Miloud et al. (2012);\n- Feld & Cohen (2019), Shane et al. (2020), Obloj & Zenger (2017), Drover et al. (2018);\n- Zacharakis & Shepherd (2001), Agarwal et al. (2025), Camuffo et al. (2020), Hallen & Piezunka (2023);\n- Pitching Angels (2021) and Szymanski (2021).\n\nPetty and Gruber is cited as 2021 on p. 7 but listed as 2011.\n\nSubstantively, the paper does not engage literatures directly bearing on deal-term disclosure. Examples are the classic argument that the equity share retained by insiders is itself a quality signal (Leland & Pyle, 1977), and evidence on how disclosed equity offerings and terms affect funding in equity crowdfunding (Ahlers et al., 2015). Both speak directly to the ownership and valuation manipulations.",
+      "rows": ["literature"]
+    },
+    {
+      "id": 16,
+      "location": "General Discussion, p. 25",
+      "quote": "we help bridge the bifurcation between entrepreneur-centric and investor-centric views",
+      "text": "The claimed contributions to organization theory are asserted rather than demonstrated. Nothing in the design examines entrepreneurs' communicative choices or the interaction between founder and investor. Identifying perceived ambiguity 'as a generalizable psychological mechanism that influences investor judgment and favorability across contexts' is also not warranted by two studies in one decision context. For this journal, the authors should articulate what the findings imply for theories of organizational resource acquisition, legitimacy, or entrepreneurial communication, beyond a practitioner question about slide content.",
+      "rows": ["relevance", "conclusions", "importance"]
+    },
+    {
+      "id": 17,
+      "location": "Study 1, Results, p. 11; Appendix Table S1 note, p. 50",
+      "quote": "is randomly assiged",
+      "text": "The manuscript needs careful copy-editing.\n- 'an additional slide is randomly assiged that manipulation' is ungrammatical.\n- Results paragraphs repeat near-identical sentences for every model; a single summary table would serve better.\n- The Appendix table is rotated and its text is interleaved with references, making the items hard to read.\n- The Cronbach's alpha note omits loss aversion.\n- The table key in Table 12 reads 'Cis' for CIs.",
+      "rows": ["writing"]
+    }
+  ],
+  "external_references": [
+    {"citation": "Leland, H. E., & Pyle, D. H. (1977). Informational asymmetries, financial structure, and financial intermediation. Journal of Finance, 32(2), 371–387.", "used_in_critique": 15},
+    {"citation": "Ahlers, G. K. C., Cumming, D., Günther, C., & Schweizer, D. (2015). Signaling in equity crowdfunding. Entrepreneurship Theory and Practice, 39(4), 955–980.", "used_in_critique": 15}
+  ]
+}
+```

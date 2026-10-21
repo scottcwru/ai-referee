@@ -1,0 +1,473 @@
+pmcid,report,item,entry,fit,qual,gap,para
+PMC11492942,R1,1,Process or findings not described,clean,n,,Brief overview of parent RCT methods needed for context
+PMC11492942,R1,2,Process or findings not described,stretch,n,Patient and public involvement,Explain or justify absence of patient and public involvement
+PMC11492942,R1,3,Process or findings not described,clean,y,,More on recruitment approach and interview data collection
+PMC11492942,R1,4,Mechanics and clarity,clean,n,,Patient counts unclear between text and flow diagram
+PMC11492942,R1,5,Sample selection,clean,n,,Compare characteristics of eligible patients not included
+PMC11492942,R1,6,Extension suggested,clean,n,,Examine whether surgery during admission affects ED use
+PMC11492942,R1,7,Process or findings not described,clean,y,,One theme reported without any supporting quotations
+PMC11492942,R1,8,Mechanics and clarity,clean,n,,Discussion sentence garbled; possible typo
+PMC11492942,R1,9,Alternative explanation or confound,clean,n,,Trial arm may have shaped participants' responses
+PMC11492942,R1,10,Limitations,clean,n,,Only high users interviewed; note as limitation
+PMC11492942,R2,1,Theoretical grounding weak or narrow,clean,n,,Logic model omits major drivers of ED use
+PMC11492942,R2,2,Neutrality,clean,y,,Participant perceptions reported in authors' voice as facts
+PMC11492942,R2,3,Claim or conclusion not shown,stretch,n,Factual accuracy of domain claims,Clinical statement about pneumonia is medically inaccurate
+PMC11492942,R2,4,Implications for practice or policy,stretch,n,Feasibility of recommendations,Recommendations misread how hospital communication works
+PMC11492942,R2,5,Alternative explanation or confound,clean,n,,Early discharge and readmission linked by competing risk
+PMC11492942,R2,6,Extension suggested,clean,n,,Compare frequent and non-frequent ED users in Table 1
+PMC11492942,R2,7,Mechanics and clarity,clean,n,,Count of 182 inconsistent between text and figure
+PMC11492942,R2,8,Sample selection,clean,n,,Compare respondents with non-respondents
+PMC11492942,R2,9,Tone or terminology,clean,n,,Use emergency department not emergency room
+PMC11492942,R2,10,Mechanics and clarity,stretch,n,Concept clarity,Readmission and ED visit used interchangeably
+PMC11492942,R2,11,Construct validity of measures,stretch,y,Theme construction and interpretation,Two themes indistinguishable
+PMC11492942,R2,12,Construct validity of measures,stretch,y,Theme construction and interpretation,One theme joins two things that do not belong together
+PMC11492942,R2,13,Neutrality,clean,y,,Another opinion stated as investigators' fact
+PMC11492942,R2,14,Tone or terminology,clean,n,,Avoid the word vulnerable
+PMC11492942,R2,15,Construct validity of measures,stretch,y,Theme construction and interpretation,Theme label too narrow for its content
+PMC11492942,R2,16,Incorporation of Relevant Literature,clean,n,,Literature findings stated as facts; attribute and contextualise
+PMC11492942,R2,17,Implications for practice or policy,clean,n,,Pain-control point self-evident; unclear what to do
+PMC11492942,R2,18,Neutrality,clean,y,,Perspective stated as established fact; attribute to participants
+PMC11492942,R2,19,Theoretical grounding weak or narrow,clean,n,,Outsized focus on medication reconciliation unwarranted
+PMC11138289,R1,1,Mechanics and clarity,clean,n,,Overlong introduction sentence
+PMC11138289,R1,2,Theoretical grounding weak or narrow,clean,n,,Ignores strained relationships with families
+PMC11138289,R1,3,Contribution relative to length,clean,n,,Sentence on distress may be unnecessary
+PMC11138289,R1,4,Tone or terminology,clean,n,,Phrasing blames staff for poor coping
+PMC11138289,R1,5,Validity and reliability of measures,stretch,y,Trustworthiness strategies,Transcript editing does not establish trustworthiness; check interpretations
+PMC11138289,R1,6,Process or findings not described,clean,n,,How the society advertised the study unclear
+PMC11138289,R1,7,Sample selection,clean,y,,Purposive inclusion of specific staff groups unjustified
+PMC11138289,R1,8,Process or findings not described,clean,y,,IPA analytic steps to four themes too thin
+PMC11138289,R1,9,Validity and reliability of measures,stretch,y,Trustworthiness strategies,Explain how credibility was demonstrated in IPA
+PMC11138289,R1,10,Process or findings not described,clean,n,,Report number of units represented
+PMC11138289,R1,11,Research ethics,clean,n,,Age plus role in table risks identifying a participant
+PMC11138289,R2,1,Linkage between Conceptual Argument and Empirical Analysis,stretch,n,Alignment of question and findings,Research question and themes do not match
+PMC11138289,R2,2,Process or findings not described,clean,y,,Interview questions not provided
+PMC11138289,R2,3,Process or findings not described,clean,y,,How themes were constructed not described
+PMC11138289,R2,4,Process or findings not described,clean,y,,Report how many participants supported each theme
+PMC11138289,R2,5,Claim or conclusion not shown,clean,y,,Link between identity and guilt not shown in interviews
+PMC11138289,R2,6,Claim or conclusion not shown,clean,y,,Link of nature and water to self not shown
+PMC11138289,R2,7,Claim or conclusion not shown,clean,y,,Self-reflection claim not supported by the quote given
+PMC11138289,R2,8,Mechanics and clarity,clean,n,,Tense correction
+PMC11138289,R2,9,Mechanics and clarity,clean,n,,Typo
+PMC11404147,R2,1,Process or findings not described,clean,y,,Provide the interview questionnaire
+PMC11404147,R2,2,"Figures, tables, or examples",clean,y,,Table of recurrent themes across interviewees
+PMC11404147,R2,3,Mechanics and clarity,clean,n,,Language review for clarity
+PMC11404147,R3,1,"Title, abstract, and keywords",clean,n,,Title reflects only one theme
+PMC11404147,R3,2,Tone or terminology,clean,n,,Drug providers should be dispensers or defined
+PMC11404147,R3,3,Process or findings not described,clean,y,,Attach interview guide
+PMC11404147,R3,4,Mechanics and clarity,clean,n,,Dictionary definition needs quotation marks
+PMC11404147,R3,5,Mechanics and clarity,clean,n,,Statement unclear
+PMC11404147,R3,6,Reliability,stretch,y,Translation and transcription fidelity,Were transcripts checked by other researchers
+PMC11404147,R3,7,Validity and reliability of measures,stretch,y,Translation and transcription fidelity,How translation to English was validated before coding
+PMC11404147,R3,8,Construct validity of measures,stretch,y,Theme construction and interpretation,Themes 2 and 3 overlap; themes do not tell a story
+PMC11404147,R3,9,Implications for practice or policy,clean,n,,Add recommendations to discussion
+PMC11404147,R3,10,Research ethics,clean,n,,Attach consent form
+PMC11404147,R3,11,Process or findings not described,stretch,y,Reflexivity,Researcher relationship with participants not stated (COREQ 6)
+PMC11404147,R3,12,Process or findings not described,clean,y,,Several COREQ items not reported
+PMC11404147,R3,13,Mechanics and clarity,clean,n,,Major English editing needed
+PMC11404147,R4,1,"Title, abstract, and keywords",clean,n,,Title covers only one theme
+PMC11404147,R4,2,Incorporation of Relevant Literature,clean,n,,Cite international research to show the gap
+PMC11404147,R4,3,Sample selection,clean,n,,Why providers only and not clients
+PMC11404147,R4,4,Process or findings not described,clean,y,,Add interview topics
+PMC11404147,R4,5,Process or findings not described,clean,y,,State framework used for topics and analysis
+PMC11404147,R4,6,"Figures, tables, or examples",clean,y,,Table tracing questions; quotes; codes; themes
+PMC11404147,R4,7,Validity and reliability of measures,stretch,y,Trustworthiness strategies,Describe techniques used to improve trustworthiness
+PMC11404147,R4,8,Research ethics,clean,n,,Add ethics information
+PMC11404147,R4,9,Validity and reliability of measures,stretch,y,Trustworthiness strategies,Any health-worker data to triangulate theme 1
+PMC11293397,R2,1,Tone or terminology,clean,n,,Avoid the phrase mentally ill
+PMC11293397,R2,2,Tone or terminology,clean,n,,Define informal caregivers
+PMC11293397,R2,3,Tone or terminology,clean,n,,Functional incapacity needs definition
+PMC11293397,R2,4,Contribution relative to length,clean,n,,Passage repetitive
+PMC11293397,R2,5,Incorporation of Relevant Literature,clean,n,,Passage insufficiently referenced
+PMC11293397,R2,6,Mechanics and clarity,clean,n,,Citation format for et al
+PMC11293397,R2,7,Incorporation of Relevant Literature,clean,n,,Discuss religious coping beyond this culture
+PMC11293397,R2,8,Appropriateness of Design,stretch,y,Choice and fidelity of qualitative method,Disavowing interpretive depth contradicts qualitative design
+PMC11293397,R2,9,Sample selection,clean,n,,Accompanying relatives are not necessarily caregivers; define
+PMC11293397,R2,10,Sample selection,clean,y,,Criteria for handpicked participants undefined
+PMC11293397,R2,11,Process or findings not described,clean,y,,Name sites used for triangulation
+PMC11293397,R2,12,Extension suggested,clean,n,,Tabulate coping strategies across regions
+PMC11293397,R2,13,Limitations,clean,n,,Claims no limitations though several exist
+PMC11293397,R2,14,Sample selection,stretch,y,Saturation and sample sufficiency,Saturation claim at fifteenth participant questionable
+PMC11293397,R2,15,Research ethics,clean,n,,Thumbprint consent; voluntariness and separation from hospital
+PMC11293397,R2,16,Originality,clean,n,,No comparison with other regions; added value unclear
+PMC11293397,R2,17,Purpose of the research,clean,n,,Which mental illness is addressed undefined
+PMC11293397,R3,1,Appropriateness of Design,stretch,y,Choice and fidelity of qualitative method,Only a single interview per caregiver
+PMC11293397,R3,2,Tone or terminology,clean,n,,Replace mental disease with mental illness
+PMC11293397,R3,3,Contribution relative to length,clean,n,,Tables 1 and 2 add nothing
+PMC11293397,R3,4,Incorporation of Relevant Literature,clean,n,,Compare with studies from other African countries
+PMC11590845,R1,1,Mechanics and clarity,clean,n,,Density unit likely km2 not m2
+PMC11590845,R1,2,"Figures, tables, or examples",clean,n,,List specialists and add legend to Table 2
+PMC11590845,R2,1,Mechanics and clarity,clean,n,,Grammar and spelling errors throughout
+PMC11590845,R2,2,Mechanics and clarity,clean,n,,Abstract sentence rewording
+PMC11590845,R2,3,Sample selection,clean,y,,Purposive sampling applies to participants not hospitals
+PMC11590845,R2,4,Mechanics and clarity,clean,n,,Key message sentence ungrammatical
+PMC11590845,R2,5,Limitations,stretch,y,Saturation and sample sufficiency,Interview count is not a strength; depth and saturation are
+PMC11590845,R2,6,Contribution relative to length,clean,n,,Two limitation bullets repeat
+PMC11590845,R2,7,Mechanics and clarity,clean,n,,Weather for whether
+PMC11590845,R2,8,Mechanics and clarity,clean,n,,Opening sentence incomplete
+PMC11590845,R2,9,Contribution relative to length,clean,n,,Introduction repetitive; delete paragraph
+PMC11590845,R2,10,Process or findings not described,clean,y,,Study design too brief; justify approach with references
+PMC11590845,R2,11,Contribution relative to length,clean,n,,Setting section too long
+PMC11590845,R2,12,Sample selection,clean,y,,Purposive sampling misapplied to hospitals; justify participants
+PMC11590845,R2,13,Contribution relative to length,clean,n,,Move paragraph to an ethics section
+PMC11590845,R2,14,Sample selection,stretch,y,Saturation and sample sufficiency,Justify the sample size
+PMC11590845,R2,15,Process or findings not described,clean,n,,Observation or questionnaire data not described in methods
+PMC11590845,R2,16,Limitations,clean,n,,Reflect further on strengths and limitations
+PMC11535687,R1,1,Importance of Problem,clean,n,,Add maternal and neonatal mortality context
+PMC11535687,R1,2,Process or findings not described,stretch,y,Reflexivity,Report researchers' credentials and gender per COREQ
+PMC11535687,R1,3,Reactive arrangements,clean,y,,Assistants tied to clinics may bias responses
+PMC11535687,R1,4,Process or findings not described,clean,n,,Name city; number of centres; dates
+PMC11535687,R1,5,Sample selection,clean,n,,How participants were identified and invited unclear
+PMC11535687,R1,6,Process or findings not described,clean,y,,How focus groups were formed; prior acquaintance
+PMC11535687,R1,7,Reliability,clean,y,,How many coders coded the data
+PMC11535687,R1,8,Process or findings not described,clean,n,,Demographics by participant category
+PMC11535687,R1,9,Finding left undeveloped,clean,n,,Differences between attenders and non-attenders
+PMC11535687,R1,10,Incorporation of Relevant Literature,clean,n,,Use WHO ANC recommendations and Knowledge Dialogues
+PMC11535687,R2,1,Mechanics and clarity,clean,n,,Spelling and grammar errors throughout
+PMC11535687,R2,2,Tone or terminology,clean,n,,Use low-middle income countries
+PMC11535687,R2,3,Process or findings not described,clean,y,,Translators' expertise and team membership
+PMC11535687,R2,4,Process or findings not described,clean,n,,When and how demographics were collected
+PMC11535687,R2,5,Finding left undeveloped,clean,n,,Differences between patient and professional views
+PMC11535687,R2,6,Implications for practice or policy,clean,n,,Recommend transport or satellite clinics
+PMC11624828,R2,1,Mechanics and clarity,clean,n,,Unclear English; inconsistent terminology
+PMC11624828,R2,2,Mechanics and clarity,clean,y,,Quotes hard to understand; translation or missing context
+PMC11624828,R2,3,"Figures, tables, or examples",clean,n,,Figure of the health system
+PMC11624828,R2,4,Finding left undeveloped,clean,n,,Objective promised attributes but only barriers reported
+PMC11624828,R2,5,Originality,clean,n,,Are challenges specific to asthma care
+PMC11647344,R1,1,"Title, abstract, and keywords",clean,n,,Title too broad; sexual health needs should be specified
+PMC11647344,R1,2,Appropriateness of Design,clean,n,,Mental health in aim but interview schedule never asks about it
+PMC11647344,R1,3,"Title, abstract, and keywords",clean,n,,Abstract should give participant count and fuller design description
+PMC11647344,R1,4,Tone or terminology,clean,n,,Informant and participant used interchangeably; informant wording passive
+PMC11647344,R1,5,Process or findings not described,clean,n,,Role and number of community research assistants unclear
+PMC11647344,R1,6,Tone or terminology,clean,n,,Migrant refugee asylum seeker used interchangeably despite legal differences
+PMC11647344,R1,7,Framing of the argument,clean,n,,Introduction should focus on asylum seekers and unaccompanied minors not migrants
+PMC11647344,R1,8,Incorporation of Relevant Literature,clean,n,,Add persecution on gender and sexuality as asylum grounds
+PMC11647344,R1,9,Mechanics and clarity,clean,n,,Sentence on migration as global priority unclear
+PMC11647344,R1,10,Mechanics and clarity,clean,n,,Unaccompanied minors listed as separate group from refugees
+PMC11647344,R1,11,Mechanics and clarity,clean,n,,Study definitions should move to end of introduction
+PMC11647344,R1,12,Contribution relative to length,clean,n,,Mental health prevalence material disconnected from what was studied
+PMC11647344,R1,13,Incorporation of Relevant Literature,clean,n,,Literature on exploitation of migrants reported imprecisely
+PMC11647344,R1,14,Purpose of the research,clean,n,,Aim inconsistently includes or omits mental health across the text
+PMC11647344,R1,15,Mechanics and clarity,clean,n,,Define sexual health with positive and respectful terms before aim
+PMC11647344,R1,16,Alternative explanation or confound,clean,n,,Male help-seeking gap may reflect gender not migration
+PMC11647344,R1,17,Tone or terminology,clean,n,,Use host country consistently
+PMC11647344,R1,18,Mechanics and clarity,clean,n,,Introduction needs general-to-specific organization
+PMC11647344,R1,19,Theoretical grounding weak or narrow,clean,n,,Choice of masculinities framework unjustified; cite empirical links
+PMC11647344,R1,20,Incorporation of Relevant Literature,clean,n,,Consult literature on masculinities and migration
+PMC11647344,R1,21,Alternative explanation or confound,clean,n,,Norm clashes attributed to culture rather than state structures
+PMC11647344,R1,22,Mechanics and clarity,clean,n,,Hegemonic masculinity definition hard to read; paraphrase simply
+PMC11647344,R1,23,Incorporation of Relevant Literature,clean,n,,Claim that hegemonic masculinity is idealized needs citation
+PMC11647344,R1,24,Mechanics and clarity,clean,n,,Study setting belongs at end of introduction
+PMC11647344,R1,25,Process or findings not described,clean,n,,Setting description of Swedish rights not specific; add service access context
+PMC11647344,R1,26,Sample selection,clean,n,,Why only three nationalities; eligibility versus volunteering unclear
+PMC11647344,R1,27,Mechanics and clarity,clean,n,,Stated age criterion differs from participants' age range
+PMC11647344,R1,28,Sample selection,stretch,y,Saturation and sample sufficiency,No justification of sample size; theoretical sampling and saturation absent
+PMC11647344,R1,29,Appropriateness of Design,stretch,y,Choice and fidelity of qualitative method,Calls interviews in-depth though they were semi-structured
+PMC11647344,R1,30,Process or findings not described,clean,n,,More participant characteristics needed; why migration status not asked
+PMC11647344,R1,31,Mechanics and clarity,clean,n,,Conduct not collect interviews
+PMC11647344,R1,32,Appropriateness of Design,stretch,y,Choice and fidelity of qualitative method,Claims constructivist grounded theory but does not follow it
+PMC11647344,R1,33,Process or findings not described,clean,y,,Coding stages and memo writing from line codes to categories not described
+PMC11647344,R1,34,Process or findings not described,clean,y,,No account of follow-up or clarification with interviewees
+PMC11647344,R1,35,Validity and reliability of measures,stretch,y,Trustworthiness strategies,Steps taken to ensure analytic rigor not described
+PMC11647344,R1,36,Process or findings not described,clean,y,,Report against grounded theory quality criteria and SRQR
+PMC11647344,R1,37,Research ethics,clean,n,,No strategies for participant vulnerability
+PMC11647344,R1,38,Research ethics,clean,n,,Opening question potentially retraumatizing; no distress protocol
+PMC11647344,R1,39,Process or findings not described,clean,y,,Interpreters' recruitment training and confidentiality not described
+PMC11647344,R1,40,Reactive arrangements,clean,y,,Diaspora interpreter presence may inhibit openness on taboo topics
+PMC11647344,R1,41,Construct validity of measures,stretch,y,Translation and transcription fidelity,Translation of taboo terms may carry stigma and distort accounts
+PMC11647344,R1,42,Process or findings not described,clean,n,,Rationale for two team members present at interviews unclear
+PMC11647344,R1,43,Neutrality,clean,n,,Gatekeeper links and author affiliations with recruiting organizations undeclared
+PMC11647344,R1,44,Neutrality,stretch,y,Reflexivity,Researcher role and reflexivity absent
+PMC11647344,R1,45,Mechanics and clarity,clean,n,,Grammar fix guilty and anxious
+PMC11647344,R1,46,Claim or conclusion not shown,clean,n,,Conclusion that participants incorporate both norm sets lacks supporting examples
+PMC11647344,R1,47,Implications for practice or policy,clean,n,,Needs section should state recommendations directly
+PMC11647344,R1,48,Mechanics and clarity,clean,n,,Opening of limitations needs more specific terminology
+PMC11647344,R1,49,Mechanics and clarity,clean,n,,Move analysis lines from limitations to methods
+PMC11647344,R1,50,Process or findings not described,clean,n,,Research assistants' number and roles belong in methods
+PMC11647344,R1,51,Tone or terminology,clean,n,,Ethnicities wrong word; use sociocultural background
+PMC11647344,R1,52,Limitations,clean,y,,Translators and diaspora presence should be stated as limitations
+PMC11647344,R1,53,Limitations,clean,y,,Gender dynamics and power imbalance in group interviews unaddressed
+PMC11647344,R1,54,Limitations,clean,n,,Possible undisclosed sexual minority participants unaddressed
+PMC11647344,R1,55,Research ethics,clean,n,,Safe environment claim should be explained in ethics section
+PMC11647344,R1,56,Mechanics and clarity,clean,n,,Proofread; remove redundancies such as abstract objective
+PMC11492947,R1,1,Process or findings not described,clean,n,,More German context on training routes and guidelines in introduction
+PMC11492947,R1,2,Mechanics and clarity,clean,n,,Explain KNGF and S2k abbreviations
+PMC11492947,R1,3,Mechanics and clarity,clean,n,,Mention Germany in conclusions for context
+PMC11492947,R1,4,Finding left undeveloped,clean,n,,Discussion neglects facilitators and international links
+PMC11492947,R2,1,"Title, abstract, and keywords",clean,n,,Abstract results wording imprecise
+PMC11492947,R2,2,Limitations,clean,n,,Specify how generalizability to German physiotherapists was limited
+PMC11492947,R2,3,Incorporation of Relevant Literature,clean,n,,Use contemporary osteoarthritis definition
+PMC11492947,R2,4,"Figures, tables, or examples",clean,n,,Give examples of higher-quality guidelines
+PMC11492947,R2,5,Purpose of the research,clean,n,,State the evidence gap in German context explicitly
+PMC11492947,R2,6,Tone or terminology,clean,n,,Aim should say clinical practice guidelines
+PMC11492947,R2,7,Sample selection,clean,y,,Purposive sampling impossible if demographics collected after interview
+PMC11492947,R2,8,Process or findings not described,clean,n,,Report actual not expected interview length
+PMC11492947,R2,9,Process or findings not described,clean,n,,Give example of higher professional degree
+PMC11492947,R2,10,Claim or conclusion not shown,clean,y,,Unclear whether statement is author interpretation or participants' words
+PMC11492947,R2,11,Mechanics and clarity,clean,n,,Define KNGF; fix quotation mark typos
+PMC11492947,R2,12,Claim or conclusion not shown,clean,y,,Statement about guidelines ignored not shown to come from participants
+PMC11492947,R2,13,Finding left undeveloped,clean,n,,Did participants explain why active physiotherapists implement more easily
+PMC11492947,R2,14,Extension suggested,clean,n,,Report beliefs about own weight-loss counselling skills
+PMC11492947,R2,15,Anomalous or conflicting result not addressed,clean,n,,Claim mood has no influence conflicts with frustration evident earlier
+PMC11492947,R2,16,"Figures, tables, or examples",clean,n,,Separate barriers and facilitators in Table 1
+PMC11492947,R2,17,Mechanics and clarity,clean,n,,Discussion opening vague; give key findings
+PMC11492947,R2,18,Mechanics and clarity,clean,n,,Be specific about patient views of osteoarthritis
+PMC11492947,R2,19,Mechanics and clarity,clean,n,,Unneeded however; possible quote typo; reframe final paragraph
+PMC11492947,R2,20,External validity,clean,n,,Give examples of other settings; discuss generalizability beyond Germany
+PMC11492947,R2,21,Claim or conclusion not shown,clean,n,,Conclusion on intervention development not supported by discussion
+PMC10826535,R1,1,Originality,clean,n,,Findings in line with what is known; state unique contribution
+PMC10826535,R1,2,Purpose of the research,clean,n,,State the guiding research question
+PMC10826535,R1,3,Theoretical grounding weak or narrow,clean,n,,No conceptual framework guiding the study
+PMC10826535,R1,4,Appropriateness of Design,stretch,y,Choice and fidelity of qualitative method,Why content analysis and these groups were chosen not justified
+PMC10826535,R1,5,Process or findings not described,clean,y,,Content analysis process not described
+PMC10826535,R1,6,Process or findings not described,clean,n,,Clarify staff expert participants
+PMC10826535,R1,7,Limitations,clean,n,,Elaborate limitations
+PMC10826535,R1,8,Implications for practice or policy,clean,n,,State implications for research and practice
+PMC10826535,R1,9,Process or findings not described,clean,y,,Use COREQ checklist
+PMC10826535,R1,10,Extension suggested,clean,n,,Explore new perspectives to yield new insights
+PMC10826535,R2,1,Mechanics and clarity,clean,n,,Typos throughout
+PMC10826535,R2,2,Importance of Problem,clean,n,,Rationale for study in this population insufficient
+PMC10826535,R2,3,Claim or conclusion not shown,clean,n,,Claim that qualitative research is the best method unsupported
+PMC10826535,R2,4,Mechanics and clarity,clean,n,,Separation of quotes and subcategory text hurts readability
+PMC10826535,R2,5,Limitations,clean,n,,No limitations section
+PMC10826535,R2,6,Incorporation of Relevant Literature,clean,n,,Contribution relative to existing literature not explained
+PMC10826535,R3,1,Incorporation of Relevant Literature,clean,n,,Add background that dental treatment is safe in pregnancy
+PMC10826535,R3,2,Sample selection,clean,n,,Rationale for 20-week gestation inclusion criterion
+PMC10826535,R3,3,Mechanics and clarity,clean,n,,Grammar and punctuation
+PMC10826535,R3,4,Process or findings not described,clean,y,,How participants were informed of results
+PMC10826535,R3,5,Process or findings not described,clean,n,,Who staff experts were
+PMC10826535,R3,6,Mechanics and clarity,clean,n,,Explain the basic form
+PMC10826535,R3,7,Incorporation of Relevant Literature,clean,n,,Add reference on patient-centred dental care
+PMC10826535,R3,8,Finding left undeveloped,clean,n,,Elaborate implications of provider behaviour finding
+PMC10826535,R3,9,Mechanics and clarity,clean,n,,Sentence misplaced in paragraph
+PMC10826535,R3,10,Implications for practice or policy,clean,n,,Add implications of the study
+PMC10826535,R3,11,Process or findings not described,clean,n,,Report participants' socioeconomic status or note as limitation
+PMC10826535,R3,12,Incorporation of Relevant Literature,clean,n,,Evidence listed rather than discussed
+PMC10989111,R1,1,Sample selection,clean,n,,Inequality and deprivation criteria for selection undefined
+PMC10989111,R1,2,Mechanics and clarity,clean,n,,Define co-production
+PMC10989111,R1,3,Claim or conclusion not shown,clean,n,,Claim of participant ownership unsupported
+PMC10989111,R1,4,Process or findings not described,clean,n,,Relation to larger partnership project unexplained
+PMC10989111,R1,5,Sample selection,clean,n,,How and why participants recruited; implications of sample makeup
+PMC10989111,R1,6,Preregistration,clean,n,,Explain what pre-registered study means
+PMC10989111,R1,7,Appropriateness of Design,stretch,y,Choice and fidelity of qualitative method,No rationale for choice and order of interviews and focus groups
+PMC10989111,R1,8,Process or findings not described,clean,y,,Student interviewers' recruitment training support and their strengths and limits
+PMC10989111,R1,9,Research ethics,clean,n,,Ethics of care for student interviewers
+PMC10989111,R1,10,Claim or conclusion not shown,clean,y,,Rapport claimed from age similarity ignoring other differences
+PMC10989111,R1,11,Research ethics,clean,n,,Assent for under-18s and ethics with disadvantaged youth
+PMC10989111,R1,12,Process or findings not described,clean,n,,Public involvement beyond participation unexplained
+PMC10989111,R1,13,Process or findings not described,clean,y,,Codes generated not shown; add coding framework
+PMC10989111,R1,14,Incorporation of Relevant Literature,clean,y,,Use reflexive thematic analysis literature
+PMC10989111,R1,15,Neutrality,stretch,y,Reflexivity,Researchers' values and positionality and their influence not discussed
+PMC10989111,R1,16,Process or findings not described,clean,y,,How themes were generated unclear
+PMC10989111,R1,17,Finding left undeveloped,clean,n,,Support needs not identified for some themes
+PMC10989111,R1,18,Extension suggested,clean,n,,Differentiate experiences by age gender ethnicity justice contact
+PMC10989111,R1,19,Finding left undeveloped,clean,n,,Trust in politicians finding deserves discussion
+PMC10989111,R1,20,Appropriateness of Analysis and Interpretation,stretch,y,Qualitative reporting conventions,Percentages inappropriate in small qualitative study; use counts
+PMC10989111,R1,21,Mechanics and clarity,clean,n,,Suboptimal welfare unexplained
+PMC10989111,R1,22,Mechanics and clarity,clean,n,,County lines reference unclear
+PMC10989111,R1,23,Incorporation of Relevant Literature,clean,n,,Discussion short; contribution not positioned in literature
+PMC10989111,R1,24,Implications for practice or policy,clean,n,,Recommendations for practice and future research not explored
+PMC10989111,R1,25,Limitations,clean,y,,Strengths and limits of peer research methods not reflected
+PMC10989111,R1,26,"Title, abstract, and keywords",clean,n,,Abstract silver linings unclear
+PMC10989111,R1,27,Implications for practice or policy,clean,n,,How co-produced support should be achieved unstated
+PMC10989111,R1,28,Incorporation of Relevant Literature,clean,n,,Self-citations may not be peer reviewed
+PMC10989111,R1,29,Process or findings not described,clean,y,,Basis for selecting quotes in tables unclear
+PMC10989111,R1,30,Process or findings not described,clean,y,,Qualitative reporting checklist completed?
+PMC10773376,R1,1,Mechanics and clarity,clean,n,,Needs writing assistance for grammar and referencing
+PMC10773376,R1,2,Mechanics and clarity,clean,n,,Affiliations formatting
+PMC10773376,R1,3,"Title, abstract, and keywords",clean,n,,Abstract repetitive; rewrite
+PMC10773376,R1,4,Incorporation of Relevant Literature,clean,n,,References mismatched to text
+PMC10773376,R1,5,Incorporation of Relevant Literature,clean,n,,Statements lack references
+PMC10773376,R1,6,Mechanics and clarity,clean,n,,Reference entries incomplete
+PMC10773376,R1,7,Process or findings not described,clean,y,,Exact qualitative design and method unclear and unreferenced
+PMC10773376,R1,8,Mechanics and clarity,clean,n,,Tesch method in abstract but not methods
+PMC10773376,R1,9,Mechanics and clarity,clean,n,,Data collection and analysis description should be reordered
+PMC10773376,R1,10,Contribution relative to length,clean,y,,Lengthy quotes repeat the text
+PMC10773376,R1,11,Tone or terminology,clean,n,,Word choice in results inappropriate
+PMC10773376,R1,12,Mechanics and clarity,clean,n,,Discussion repetitive sentence openings
+PMC10773376,R1,13,Mechanics and clarity,clean,n,,Ambiguous reference to the author
+PMC10773376,R1,14,Implications for practice or policy,clean,n,,Implications for research practice and policy need rewriting
+PMC10773376,R2,1,Claim or conclusion not shown,clean,y,,Themes rest on single quotes; summaries not grounded in participant voices
+PMC10773376,R2,2,Validity and reliability of measures,stretch,y,Trustworthiness strategies,Credibility confirmability dependability transferability not addressed
+PMC10773376,R2,3,Neutrality,clean,n,,How bias was minimized
+PMC10882300,R1,1,Appropriateness of Design,stretch,y,Choice and fidelity of qualitative method,Why phenomenology chosen over other qualitative designs
+PMC10882300,R1,2,Implications for practice or policy,clean,n,,More direct policy implications
+PMC10882300,R1,3,Process or findings not described,clean,y,,How each Colaizzi step was operationalized
+PMC10882300,R1,4,Incorporation of Relevant Literature,clean,n,,Integrate findings with prior literature
+PMC10882300,R1,5,Appropriateness of Design,stretch,n,Patient and public involvement,Lack of patient and public involvement regrettable
+PMC10882300,R1,6,Implications for practice or policy,clean,n,,Specify support measures implied by results
+PMC10882300,R2,1,Incorporation of Relevant Literature,clean,n,,Missed relevant study on nurses' growth
+PMC10882300,R2,2,Incorporation of Relevant Literature,clean,n,,More background on prior post-traumatic growth research
+PMC10882300,R2,3,Process or findings not described,clean,y,,More detail on coding and Colaizzi framework
+PMC10882300,R2,4,"Figures, tables, or examples",clean,n,,Diagram or table of themes
+PMC10882300,R2,5,Incorporation of Relevant Literature,clean,n,,Relate findings to prior literature
+PMC10868268,R2,1,Process or findings not described,clean,n,,Which missing domains participants identified
+PMC10868268,R2,2,Sample selection,clean,y,,Purposive sampling claim conflicts with enrolling all eligible patients
+PMC10868268,R2,3,Sample selection,clean,n,,Eligibility not reassessed at interview
+PMC10868268,R2,4,Reliability,clean,y,,Interrater reliability and double coding not reported
+PMC10868268,R2,5,Validity and reliability of measures,stretch,y,Trustworthiness strategies,No member checking triangulation reflexivity thick description or audit trail
+PMC10868268,R2,6,Sample selection,stretch,y,Saturation and sample sufficiency,Saturation not mentioned; sample of 16 may be insufficient
+PMC10868268,R2,7,Mechanics and clarity,clean,n,,Inconsistent labeling of infection source in quotes
+PMC10868268,R2,8,Sample selection,clean,n,,Bacteremia participant may not meet sepsis definition
+PMC10868268,R2,9,"Figures, tables, or examples",clean,y,,More quotes needed on relationships and fear of dying
+PMC10868268,R2,10,Appropriateness of Analysis and Interpretation,stretch,y,Theme construction and interpretation,Anxiety codes may conflate several themes
+PMC10868268,R2,11,Analysis plan or model not specified,stretch,y,Choice and fidelity of qualitative method,Called thematic analysis and systematic text condensation inconsistently
+PMC10868268,R2,12,Incorporation of Relevant Literature,clean,n,,Claim about Danish sepsis care needs citation
+PMC10868268,R2,13,Mechanics and clarity,clean,n,,English language editing
+PMC10868268,R2,14,Finding left undeveloped,clean,n,,Interview guide acute care content absent from results
+PMC10806645,R1,1,"Title, abstract, and keywords",clean,n,,Title should name the countries studied
+PMC10806645,R1,2,"Title, abstract, and keywords",clean,n,,Abstract vague on goal; results; policy implications
+PMC10806645,R1,3,Purpose of the research,clean,n,,Research questions not clear in introduction
+PMC10806645,R1,4,Theoretical grounding weak or narrow,clean,n,,Theoretical background on vaccines and hesitancy too thin
+PMC10806645,R1,5,Contribution relative to length,clean,n,,Subheadings fragment the paper; integrate sections
+PMC10806645,R1,6,Process or findings not described,clean,n,,Methods unclear; restructure into sample; measures; models
+PMC10806645,R1,7,"Figures, tables, or examples",clean,n,,Table titles and abbreviations unclear
+PMC10806645,R1,8,Mechanics and clarity,clean,n,,Logic of results presentation unclear
+PMC10806645,R1,9,Incorporation of Relevant Literature,clean,n,,Discussion should show what study adds to prior studies
+PMC10806645,R1,10,Limitations,clean,n,,Conclusion should address the study's limitations
+PMC10806645,R1,11,Implications for practice or policy,clean,n,,Conclusion should give management and policy suggestions
+PMC10806645,R1,12,Incorporation of Relevant Literature,clean,n,,Must read and cite a list of suggested papers
+PMC10806645,R2,1,Theoretical grounding weak or narrow,clean,n,,No theoretical framework informing data collection or analysis
+PMC10806645,R2,2,Sample selection,clean,n,,Low response; country mix; non-responder characteristics unknown
+PMC10806645,R2,3,Sample selection,clean,n,,All respondents private practice and mostly homeopathy
+PMC10806645,R2,4,Limitations,clean,n,,Limitations missing from discussion
+PMC10806645,R3,1,Mechanics and clarity,clean,n,,Abstract should not start statements with numbers
+PMC10806645,R3,2,"Title, abstract, and keywords",clean,n,,Abstract omits questionnaire content in design
+PMC10806645,R3,3,"Title, abstract, and keywords",clean,n,,Abstract findings dispersed; summarize by objectives
+PMC10806645,R3,4,Mechanics and clarity,clean,n,,Define highly skilled primary healthcare worker
+PMC10806645,R3,5,Contribution relative to length,clean,n,,Too much detail on Austrian health system
+PMC10806645,R3,6,Contribution relative to length,clean,n,,Introduction includes off-topic material
+PMC10806645,R3,7,Incorporation of Relevant Literature,clean,n,,Review literature on professionals not general hesitancy
+PMC10806645,R3,8,Sample selection,clean,n,,Why these three countries were chosen
+PMC10806645,R3,9,Process or findings not described,clean,n,,Snowball sampling process not described
+PMC10806645,R3,10,Process or findings not described,clean,y,,Interview tool structure and question development not described
+PMC10806645,R3,11,Process or findings not described,clean,y,,Number of interviewers not reported
+PMC10806645,R3,12,Process or findings not described,clean,y,,Qualitative analysis method such as content analysis not stated
+PMC10806645,R3,13,"Figures, tables, or examples",clean,n,,Explain symbols and abbreviations under table
+PMC10806645,R3,14,Mechanics and clarity,clean,n,,Results need an overview first
+PMC10806645,R3,15,Finding left undeveloped,stretch,y,Theme construction and interpretation,Results read as interview summaries; should be themes and subthemes
+PMC10806645,R3,16,Claim or conclusion not shown,clean,n,,Discussion raises points not found in results
+PMC10806645,R3,17,Mechanics and clarity,clean,n,,Rephrase the writing
+PMC10806645,R3,18,Mechanics and clarity,clean,n,,Conclusion should summarize key points by objective
+PMC10806645,R3,19,Claim or conclusion not shown,clean,n,,Conclusion opening not a result of the study
+PMC11243125,R1,1,"Title, abstract, and keywords",clean,n,,Title should specify the qualitative methods used
+PMC11243125,R1,2,"Title, abstract, and keywords",clean,n,,Abstract should include ethics and dissemination
+PMC11243125,R1,3,Sample selection,clean,n,,Criteria for qualifying participants as experts not given
+PMC11243125,R1,4,Limitations,clean,y,,Unequal data depth between written surveys and interviews as weakness
+PMC11243125,R1,5,Mechanics and clarity,clean,n,,Reference formatting and broken hyperlink
+PMC11243125,R1,6,Process or findings not described,clean,n,,Time limit on written survey responses not reported
+PMC11243125,R1,7,Incorporation of Relevant Literature,clean,n,,A cited reference is not relevant
+PMC11243125,R1,8,Incorporation of Relevant Literature,clean,n,,Relevance of another reference questioned
+PMC11243125,R1,9,Mechanics and clarity,clean,n,,Abbreviation used inconsistently
+PMC11243125,R1,10,Tone or terminology,clean,n,,Term non-specialist GPs unclear in Australian context
+PMC11243125,R1,11,Incorporation of Relevant Literature,clean,n,,Discuss gap between expert and patient barriers in key reports
+PMC11243125,R1,12,Construct validity of measures,stretch,y,Theme construction and interpretation,Subtheme label misrepresents what participants described
+PMC11243125,R1,13,Claim or conclusion not shown,clean,n,,Statement about professional points may be outdated
+PMC11243125,R2,1,Sample selection,clean,n,,Recruitment through known networks may bias sample
+PMC11243125,R2,2,Appropriateness of Analysis and Interpretation,stretch,y,Saturation and sample sufficiency,Larger sample size would be desirable
+PMC11243125,R3,1,Process or findings not described,clean,n,,Provide demographic table of interviewees
+PMC11243125,R3,2,External validity,clean,y,,Transferability to Australian primary care from five GPs unclear
+PMC11243125,R3,3,Claim or conclusion not shown,clean,n,,Subspecialist results presented as general primary care views
+PMC11243125,R3,4,Theoretical grounding weak or narrow,clean,n,,Justify framework choice and its missing domains
+PMC11243125,R3,5,Neutrality,clean,y,,Some informants never quoted while others dominate
+PMC11243125,R3,6,Mechanics and clarity,clean,n,,Abbreviation in table not explained
+PMC11243125,R3,7,Process or findings not described,clean,y,,Interview length and transcript size not reported
+PMC11243125,R3,8,Sample selection,clean,n,,Number approached and reasons for declining not reported
+PMC11243125,R3,9,Process or findings not described,clean,y,,Handling of multi-part questions in written format unclear
+PMC11243125,R3,10,"Figures, tables, or examples",clean,y,,Figure needed showing framework analysis steps
+PMC11308902,R1,1,Research ethics,clean,n,,Participant consent not mentioned
+PMC11308902,R1,2,Purpose of the research,clean,n,,Objective differs between introduction and abstract
+PMC11308902,R1,3,External validity,clean,n,,Applicability to high or low risk pregnancies unclear
+PMC11308902,R2,1,Purpose of the research,clean,n,,Focus of the study unclear among three possible aims
+PMC11308902,R2,2,Originality,clean,n,,Experience of group care already widely studied
+PMC11308902,R2,3,Process or findings not described,clean,n,,Messaging component of intervention insufficiently described
+PMC11308902,R2,4,Research ethics,clean,n,,Unmonitored messaging for medical help is unsafe
+PMC11308902,R2,5,Process or findings not described,clean,n,,Unclear whether self-assessment is part of intervention
+PMC11308902,R2,6,Sample selection,clean,n,,Dropouts excluded without justification; acceptability overstated
+PMC11308902,R2,7,Sample selection,clean,n,,Exclusion of single parents; non-hetero and non-Chinese speakers unexplained
+PMC11308902,R2,8,Research ethics,clean,n,,Informed consent for interviews not reported
+PMC11308902,R2,9,Research ethics,clean,y,,Researcher presence in sensitive sessions not justified
+PMC11308902,R2,10,Process or findings not described,clean,y,,Development of interview guide not described
+PMC11308902,R2,11,Contribution relative to length,clean,n,,A theme falls outside the stated research questions
+PMC11308902,R2,12,Extension suggested,clean,n,,Include views of those who refused or dropped out
+PMC11308902,R2,13,Claim or conclusion not shown,clean,n,,Recommended catch-up strategy conflicts with group care principles
+PMC11308902,R2,14,Mechanics and clarity,clean,n,,Passive voice; long sentences; inconsistent terminology
+PMC11308902,R3,1,Tone or terminology,clean,n,,Joint versus dyadic interview terminology inconsistent
+PMC11308902,R3,2,"Title, abstract, and keywords",clean,n,,Abstract should state phenomenological design
+PMC11308902,R3,3,Contribution relative to length,clean,n,,Setting description repeated in methods
+PMC11308902,R3,4,Process or findings not described,clean,n,,Analysis software not cited
+PMC11308902,R3,5,External validity,clean,n,,Participants without smartphones not addressed
+PMC11603686,R1,1,Mechanics and clarity,clean,n,,Results subsection title unclear
+PMC11603686,R1,2,Full disclosure,clean,n,,Use a reporting guideline statement
+PMC11603686,R1,3,"Figures, tables, or examples",clean,n,,Add a flowchart to methods
+PMC11603686,R1,4,"Figures, tables, or examples",clean,n,,Add tables; long narrative results hard to follow
+PMC11603686,R2,1,Purpose of the research,clean,n,,Broad scope without clear definitions limits application
+PMC11603686,R2,2,Sample selection,clean,n,,Recruitment from own network narrows representation
+PMC11603686,R2,3,Process or findings not described,clean,n,,Participant demographics and backgrounds insufficient
+PMC11603686,R2,4,External validity,clean,n,,Funding landscapes differ by country; applicability limited
+PMC11603686,R2,5,Process or findings not described,clean,n,,Unclear which type of funding comments refer to
+PMC11603686,R2,6,Finding left undeveloped,clean,n,,Discussion does not address the research question
+PMC11603686,R3,1,"Title, abstract, and keywords",clean,n,,Abstract aim not stated
+PMC11603686,R3,2,"Title, abstract, and keywords",clean,n,,Abstract lacks data analysis statement
+PMC11603686,R3,3,"Title, abstract, and keywords",clean,n,,Abstract should report gender distribution
+PMC11603686,R3,4,Purpose of the research,clean,n,,Background should state the aim
+PMC11603686,R3,5,Tone or terminology,clean,n,,Wording about research dollars
+PMC11603686,R3,6,Sample selection,clean,n,,Geographic setting not stated as inclusion criterion
+PMC11603686,R3,7,Process or findings not described,clean,n,,Share of LMIC researchers and reviewing funders not reported
+PMC11603686,R3,8,Sample selection,clean,n,,Rationale for recruiting from own network; possible bias
+PMC11603686,R3,9,Process or findings not described,clean,y,,Whether interview guide was piloted not reported
+PMC11603686,R3,10,Mechanics and clarity,clean,n,,Table and legend counts disagree
+PMC11603686,R3,11,Tone or terminology,clean,n,,Race category labeling
+PMC11603686,R3,12,Process or findings not described,clean,n,,Countries of other participants not given
+PMC11603686,R3,13,Contribution relative to length,clean,y,,Quotations too long or too many
+PMC11603686,R3,14,Limitations,clean,n,,Measures to limit bias from limitations not stated
+PMC11603686,R3,15,Mechanics and clarity,clean,n,,Concluding paragraph missing
+PMC11535691,R1,1,Implications for practice or policy,clean,n,,Strategies to mitigate barriers not articulated
+PMC11535691,R1,2,"Figures, tables, or examples",stretch,y,Theme construction and interpretation,Participant quotes need review
+PMC11535691,R1,3,Claim or conclusion not shown,clean,y,,Some results sections lack quotes; only author commentary
+PMC11535691,R1,4,Process or findings not described,clean,y,,Source of interview questions unclear
+PMC11535691,R1,5,Finding left undeveloped,clean,n,,Discussion too brief for the results
+PMC11535691,R1,6,Process or findings not described,clean,y,,Include the interview guide
+PMC11535691,R1,7,Incorporation of Relevant Literature,clean,n,,Update references
+PMC11535691,R2,1,"Title, abstract, and keywords",clean,n,,Abstract should state sampling strategy
+PMC11535691,R2,2,Mechanics and clarity,clean,n,,Typing error
+PMC11535691,R2,3,Limitations,clean,y,,Note strength of disabled interviewers interviewing disabled participants
+PMC11535691,R2,4,Mechanics and clarity,clean,n,,Double full stop
+PMC11535691,R2,5,Theoretical grounding weak or narrow,clean,n,,Explain why rural contexts are more susceptible to barriers
+PMC11535691,R2,6,Mechanics and clarity,clean,n,,Grammar error
+PMC11535691,R2,7,Sample selection,clean,n,,Recruitment process and possible coercion unclear
+PMC11535691,R2,8,Process or findings not described,clean,y,,Interviewers' qualifications and training not described
+PMC11535691,R2,9,Reliability,stretch,y,Translation and transcription fidelity,Accuracy of voice-overs not checked
+PMC11535691,R2,10,Process or findings not described,clean,y,,How interpretive differences were resolved not described
+PMC11535691,R2,11,Reliability,stretch,y,Translation and transcription fidelity,Who translated and how meaning was preserved
+PMC11535691,R2,12,Validity and reliability of measures,stretch,y,Trustworthiness strategies,How trustworthiness was ensured not stated
+PMC11535691,R2,13,Process or findings not described,clean,n,,Rural and urban participant counts not reported
+PMC11535691,R2,14,Mechanics and clarity,clean,y,,Framework tenets; themes and subthemes not signposted in results
+PMC11535691,R2,15,Mechanics and clarity,clean,n,,Findings passages appear to contradict each other
+PMC11535691,R2,16,Finding left undeveloped,stretch,y,Theme construction and interpretation,Themes bundle many elements; subthemes should be teased out
+PMC11535691,R2,17,Finding left undeveloped,clean,n,,Discussion is weak
+PMC11535691,R2,18,Incorporation of Relevant Literature,clean,n,,References dated
+PMC11535691,R2,19,Mechanics and clarity,clean,n,,Needs editing
+PMC10936458,R1,1,"Title, abstract, and keywords",clean,n,,Title quote ambiguous
+PMC10936458,R1,2,Incorporation of Relevant Literature,clean,n,,More citations needed on decision support evidence
+PMC10936458,R1,3,Full disclosure,clean,y,,Cite the qualitative reporting checklist
+PMC10936458,R1,4,Implications for practice or policy,clean,n,,Strategies for engaging stakeholders in trial participation
+PMC10936458,R1,5,Mechanics and clarity,clean,n,,Typo
+PMC10936458,R2,1,Extension suggested,clean,n,,Explore differences by interviewee role
+PMC10936458,R2,2,Process or findings not described,clean,n,,Comparability of hospitals' decision support readiness
+PMC10936458,R2,3,Appropriateness of Design,stretch,y,Choice and fidelity of qualitative method,Rationale for video interviews not given
+PMC10936458,R2,4,Incorporation of Relevant Literature,clean,n,,Discussion needs recent literature
+PMC10936458,R2,5,Process or findings not described,clean,n,,Regulatory and institutional context of sites not described
+PMC10936458,R2,6,Process or findings not described,clean,n,,Participant characteristics not summarized
+PMC11667319,R1,1,Mechanics and clarity,clean,n,,Sentence poorly linked to paragraph
+PMC11667319,R1,2,Incorporation of Relevant Literature,clean,n,,Add background on caregiver interventions and effectiveness
+PMC11667319,R1,3,Purpose of the research,clean,n,,Study goal should be stated more directly
+PMC11667319,R1,4,Process or findings not described,clean,n,,Additional caregiver and patient characteristics not reported
+PMC11667319,R1,5,Sample selection,clean,y,,Why two caregiver focus groups and one professional group
+PMC11667319,R1,6,Alternative explanation or confound,clean,n,,Pandemic distress may have affected results
+PMC11667319,R1,7,Limitations,clean,n,,Limitations should be reported
+PMC11667319,R2,1,Mechanics and clarity,clean,n,,Needs English editing
+PMC11667319,R2,2,Implications for practice or policy,clean,n,,Explain how findings inform quantitative or mixed follow-up
+PMC11667319,R2,3,"Title, abstract, and keywords",clean,n,,Abstract should give number of themes
+PMC11667319,R2,4,Incorporation of Relevant Literature,clean,n,,Cite burnout as significant problem
+PMC11667319,R2,5,Extension suggested,clean,n,,Do themes differ by caregiving duration
+PMC11667319,R2,6,Limitations,clean,n,,Implications of female-only professional sample

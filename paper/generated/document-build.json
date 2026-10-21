@@ -1,0 +1,19 @@
+{
+  "proposal_body_words_including_section_headings": 1987,
+  "word_count_method": "Whitespace-separated tokens; excludes title, subtitle, byline, references.",
+  "power_inputs": {
+    "sample_size": 100,
+    "alpha": 0.05,
+    "power": 0.8,
+    "reliability_percent": 20
+  },
+  "minimum_detectable_paired_standardized_effect": 0.2829126327813847,
+  "t_critical": 1.9842169515864199,
+  "quadrature_crosscheck_absolute_difference": 0.0,
+  "outputs": {
+    "proposal": {
+      "path": "docs/proposal-2026-09-21.docx",
+      "sha256": "bded4a77466c5fc00d8bcafd13d664534d4e89e1939ece63f22182bb446d5a14"
+    }
+  }
+}

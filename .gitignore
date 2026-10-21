@@ -1,0 +1,26 @@
+# Local environments and Python build outputs
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Credentials and private inputs or derived outputs
+keys.env
+.env
+.env.*
+*.key
+*.pem
+sample-private/
+confidential/
+/local/
+
+# Rendered documents; the consented sample PDF is published
+*.docx
+*.pdf
+!/sample/manuscript/manuscript.pdf
+
+# Editor and operating-system files
+.DS_Store
+~$*

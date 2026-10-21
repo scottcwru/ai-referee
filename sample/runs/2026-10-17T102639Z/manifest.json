@@ -1,0 +1,95 @@
+{
+  "run_id": "2026-10-17T102639Z",
+  "started_utc": "2026-10-17T10:26:39+00:00",
+  "manuscript": {
+    "file": "manuscript-clean.pdf",
+    "sha256": "79884758980d36d9aa24fc3106baf5994c7ccf75030761bd3edb2a77ce70df0b",
+    "bytes": 1324871,
+    "pages": 51,
+    "note": "The manuscript itself is not stored in the repository; this fingerprint identifies the file reviewed."
+  },
+  "prompt": {
+    "file": "prompt-as-sent.md",
+    "sha256": "818e106e349e71d038287233ba7d19f7b6408b0e947fe453cdc77749a5487e49",
+    "template": "reviewer/prompt.md"
+  },
+  "form": {
+    "file": "reviewer/form/template.json",
+    "sha256": "107671785cb5c93f53f0d9fae47c16a86e303ddd14477ee4bfcbf3aa2cd30d05"
+  },
+  "keys_file": "sample-private\\keys.env",
+  "price_source": {
+    "anthropic": "Anthropic model table, retrieved 2026-10-17",
+    "openai": "OpenAI GPT-5.5 announcement and openai.com/api/pricing as reported by third-party pricing pages, retrieved 2026-10-17; the pricing page itself refused automated access",
+    "note": "GPT-5.5 is the newest OpenAI model that offers a dated snapshot id. gpt-6-astra (September 2026) is served only under an undated alias and so cannot be pinned."
+  },
+  "reviewers": {
+    "claude": {
+      "vendor": "anthropic",
+      "model_requested": "claude-opus-5-5",
+      "settings": {
+        "max_tokens": 32000,
+        "effort": "high",
+        "thinking": "adaptive (the model's default; not configurable on this model)",
+        "temperature": "not set (not accepted with adaptive thinking)"
+      },
+      "price_per_million": {
+        "input": 4.0,
+        "output": 20.0,
+        "cache_write": 5.0,
+        "cache_read": 0.2
+      },
+      "attempts": [
+        {
+          "started_utc": "2026-10-17T10:26:42+00:00",
+          "elapsed_seconds": 209.8,
+          "model_served": "claude-opus-5-5",
+          "request_id": null,
+          "stop_reason": "end_turn",
+          "usage": {
+            "input_tokens": 118842,
+            "output_tokens": 13867,
+            "cache_write_tokens": 0,
+            "cache_read_tokens": 0
+          }
+        }
+      ],
+      "status": "completed",
+      "usage": {
+        "input_tokens": 118842,
+        "output_tokens": 13867,
+        "cache_write_tokens": 0,
+        "cache_read_tokens": 0
+      },
+      "cost_usd": 0.7527,
+      "elapsed_seconds": 209.8,
+      "model_served": "claude-opus-5-5"
+    },
+    "chatgpt": {
+      "vendor": "openai",
+      "model_requested": "gpt-5.5-2026-04-23",
+      "settings": {
+        "max_output_tokens": 32000,
+        "reasoning_effort": "high",
+        "temperature": "not set (not accepted by reasoning models)",
+        "store": false
+      },
+      "price_per_million": {
+        "input": 5.0,
+        "output": 30.0,
+        "cache_read": 0.5
+      },
+      "attempts": [
+        {
+          "started_utc": "2026-10-17T10:30:12+00:00",
+          "elapsed_seconds": 21.6,
+          "error": "RateLimitError: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}",
+          "sdk_retries": "up to 2 automatic retries by the SDK on 408/409/429/5xx"
+        }
+      ],
+      "status": "failed"
+    }
+  },
+  "finished_utc": "2026-10-17T10:30:34+00:00",
+  "total_cost_usd": 0.7527
+}

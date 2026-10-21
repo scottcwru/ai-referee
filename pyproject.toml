@@ -1,0 +1,21 @@
+[project]
+name = "referee"
+version = "0.1.0"
+description = "AI referee for Organization Science: reviewer, checks, and run records"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=1.15",
+    "openai>=3.0",
+    "google-genai>=2.0",
+    "pypdf>=6.0",
+]
+
+[project.scripts]
+ref = "referee.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,36 @@
+{
+  "checks": [
+    {
+      "name": "form complete",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "name": "every critique names a location",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "name": "every Poor or Marginal score has a critique",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "name": "nothing fabricated (text matching)",
+      "pass": false,
+      "failures": {
+        "quotes not found in manuscript": [
+          {
+            "critique": 4,
+            "quote": "we added a single slide within the deck that included quantitative information on deal terms"
+          }
+        ],
+        "numbers not found in manuscript": [],
+        "citations not in manuscript and not declared external": []
+      },
+      "for_human_verification": []
+    }
+  ],
+  "all_pass": false,
+  "critique_count": 13
+}

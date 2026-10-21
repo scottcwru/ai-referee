@@ -1,0 +1,61 @@
+review,arm,critique,grader_segment_order,location_named,words,dimension,proposed_label,category,checkability,form_row,location,verbatim_match,note,code_valid
+claude,ai,1,1,no,22,MET.DES,,rigor,omission,design,Study 2,yes,,yes
+claude,ai,2,2,no,50,CON.INCON,,rigor,checkable error,analysis,General Discussion,yes,,yes
+claude,ai,3,3,no,27,CON.ANOM,,rigor,checkable error,conclusions,Study 2,yes,,yes
+claude,ai,4,4,no,22,MET.DES,,rigor,omission,design,Study 1,yes,"Compound critique covering control group omission (MET.DES), failure to test difference (CON.SHOWN), and inconsistencies (CON.INCON); coded to design.",yes
+claude,ai,5,5,no,18,MET.INT.CAUSAL,,rigor,judgment,design,none,yes,,yes
+claude,ai,6,6,no,12,MET.DISC.PROC,,rigor,omission,analysis,none,yes,,yes
+claude,ai,7,7,no,12,RQ.FRAME,,contribution,judgment,theory,none,yes,Compound high-level critique mentioning references and theoretical framing; coded to framing as the primary substantive issue.,yes
+claude,ai,8,8,yes,155,CON.SHOWN,,rigor,checkable error,conclusions,"Study 2, Methods, p. 20; Hypotheses H2a–H2g, p. 19",yes,,yes
+claude,ai,9,9,yes,141,CON.INCON,,rigor,checkable error,analysis,"pp. 22–23; Tables 10, 11, and 12",yes,,yes
+claude,ai,10,10,yes,122,CON.ANOM,,rigor,checkable error,conclusions,p. 25 and p. 28,yes,,yes
+claude,ai,11,11,yes,130,MET.ANA,,rigor,checkable error,analysis,p. 24; Table 9; Table 13,yes,,yes
+claude,ai,12,12,yes,65,CON.INCON,,rigor,checkable error,conclusions,"Study 1 Methods, p. 9; Study 2 Methods, p. 20; Abstract",yes,,yes
+claude,ai,13,13,yes,44,CON.SHOWN,,rigor,checkable error,conclusions,Abstract,yes,,yes
+claude,ai,14,14,yes,67,CON.SHOWN,,rigor,checkable error,conclusions,Study 1 (Tables 5–8),yes,,yes
+claude,ai,15,15,yes,64,MET.INT.ALT,,rigor,judgment,design,pp. 8–9,yes,,yes
+claude,ai,16,16,yes,39,MET.MEAS.CON.MANIP,,rigor,judgment,design,p. 9,yes,,yes
+claude,ai,17,17,yes,46,MET.DISC.PROC,,rigor,omission,design,none,yes,,yes
+claude,ai,18,18,yes,152,CON.INCON,,rigor,checkable error,analysis,pp. 11 and 13; Table 2 vs. Table 6; Table 7; Methods p. 8,yes,,yes
+claude,ai,19,19,yes,62,MET.ANA,,rigor,judgment,analysis,pp. 10–13; Tables 1–8; Table 9,yes,,yes
+claude,ai,20,20,yes,47,CON.INCON,,rigor,checkable error,analysis,p. 10; Table 9,yes,,yes
+claude,ai,21,21,yes,31,MET.ANA,,rigor,judgment,analysis,none,yes,,yes
+claude,ai,22,22,yes,49,MET.MEAS.CON.MEAS,,rigor,judgment,design,"Study 2 Methods, p. 21; Appendix Table S1",yes,,yes
+claude,ai,23,23,yes,27,MET.MEAS.CON.MEAS,,rigor,judgment,design,none,yes,,yes
+claude,ai,24,24,yes,31,MET.MEAS.CON.MEAS,,rigor,judgment,design,none,yes,,yes
+claude,ai,25,25,yes,19,MET.MEAS.CON.MEAS,,rigor,judgment,design,none,yes,,yes
+claude,ai,26,26,yes,72,MET.MEAS.CON.MEAS,,rigor,omission,design,"p. 21, Table S1",yes,,yes
+claude,ai,27,27,yes,79,CON.ANOM,,rigor,judgment,conclusions,Table 9; Appendix Table S1; Study 2 Methods pp. 21–22,yes,,yes
+claude,ai,28,28,yes,15,MET.DISC.PROC,,rigor,omission,design,none,yes,,yes
+claude,ai,29,29,yes,52,MET.INT.CAUSAL,,rigor,judgment,design,none,yes,,yes
+claude,ai,30,30,yes,145,MET.DES.SAMP,,rigor,judgment,design,Study 1 Methods p. 8; Study 2 Methods p. 20; General Discussion p. 27,yes,,yes
+claude,ai,31,31,yes,80,MET.DISC.PROC,,rigor,omission,analysis,"pp. 10, 12, 13-15, 22, 24",yes,,yes
+claude,ai,32,32,no,37,MET.DISC.PROC,,rigor,omission,design,none,yes,"Touches on preregistration, ethics, and general disclosure; coded to parent/process disclosure covering multiple omissions",yes
+claude,ai,33,33,yes,45,THE.FALS,,rigor,omission,theory,pp. 15–19; Introduction p. 5,yes,,yes
+claude,ai,34,34,yes,47,THE.GROUND,,contribution,judgment,theory,pp. 15–16,yes,,yes
+claude,ai,35,35,yes,65,MET.MEAS.CON.MEAS,,rigor,judgment,design,p. 5,yes,,yes
+claude,ai,36,36,yes,105,WRI.MECH,,other,omission,writing,Introduction pp. 2–5; Study 1 Conceptual Framework p. 7; Study 2 p. 15; References,yes,,yes
+claude,ai,37,37,yes,17,WRI.MECH,,other,checkable error,writing,p. 7,yes,,yes
+claude,ai,38,38,yes,41,LIT.SRC,,rigor,checkable error,literature,"p. 5, 15, 17",yes,,yes
+claude,ai,39,39,no,48,LIT.POS,,contribution,omission,literature,none,yes,,yes
+claude,ai,40,40,yes,30,WRI.MECH,,other,checkable error,writing,Study 1 Results p. 11; Study 2 Methods p. 20; Introduction p. 4,yes,,yes
+claude,ai,41,41,yes,12,WRI.MECH,,other,checkable error,writing,Tables 6 and 7,yes,,yes
+claude,ai,42,42,yes,45,CON.INCON,,rigor,checkable error,design,p. 20,yes,,yes
+claude,ai,43,43,yes,19,CON.SHOWN,,rigor,checkable error,conclusions,Introduction (p. 4),yes,,yes
+claude,ai,44,44,yes,27,WRI.FIG,,other,judgment,writing,Results sections,yes,,yes
+chatgpt,ai,1,1,no,29,THE.LINK,,rigor,checkable error,design,none,yes,,yes
+chatgpt,ai,2,2,no,34,CON.INCON,,rigor,checkable error,analysis,Study 2,yes,,yes
+chatgpt,ai,3,3,yes,140,CON.INCON,,rigor,checkable error,analysis,"Page 23, Study 2 Results and Tables 10-12",yes,,yes
+chatgpt,ai,4,4,yes,106,MET.MEAS.CON.MANIP,,rigor,judgment,design,"page 19, page 20",yes,,yes
+chatgpt,ai,5,5,yes,104,CON.INCON,,rigor,checkable error,conclusions,"Page 24, General Discussion; page 25; page 28",yes,,yes
+chatgpt,ai,6,6,yes,86,MET.INT.ALT,,rigor,judgment,design,"Page 8, Study 1 Methods",yes,,yes
+chatgpt,ai,7,7,yes,102,MET.MEAS.CON.MEAS,,rigor,judgment,design,"Page 46, Appendix Table S1",yes,,yes
+chatgpt,ai,8,8,yes,89,MET.MEAS.CON.MEAS,,rigor,judgment,design,"Page 50, Appendix Table S1; page 48",yes,,yes
+chatgpt,ai,9,9,yes,114,MET.DES.SAMP,,rigor,judgment,design,Page 8; page 20,yes,,yes
+chatgpt,ai,10,10,yes,118,MET.ANA,,rigor,judgment,analysis,"page 10, page 22",yes,,yes
+chatgpt,ai,11,11,yes,91,MET.DISC.PROC,,rigor,omission,analysis,"Table 1, Page 33; page 10",yes,,yes
+chatgpt,ai,12,12,yes,81,MET.DISC.PROC,,rigor,omission,analysis,"Page 24, Footnote 4; page 10, footnote 1",yes,,yes
+chatgpt,ai,13,13,yes,102,CON.INCON,,rigor,checkable error,conclusions,"Page 9, Study 1 Methods; Study 2 page 20",yes,,yes
+chatgpt,ai,14,14,yes,78,THE.GROUND,,contribution,judgment,theory,"Page 19, Study 2 Conceptual Framework and Hypotheses",yes,,yes
+chatgpt,ai,15,15,yes,22,WRI.MECH,,other,checkable error,writing,"Page 11, Study 1 Results",yes,,yes
+chatgpt,ai,16,16,yes,50,THE.CONCEPT,,rigor,judgment,theory,none,yes,,yes

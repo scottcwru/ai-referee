@@ -1,0 +1,7 @@
+# The sample manuscript
+
+`manuscript.pdf` is the anonymized sample article, 51 pages, as submitted to Organization Science and as its referees saw it. Its co-authors have consented to its public posting here (Scott Shane's v4 plan, Part 1). The original reviewers read it with the journal's manuscript ID on the cover page; the posted copy has that ID blanked and nothing else changed. `fingerprints.json` records both SHA-256 fingerprints: the one in the original run manifests under `sample/runs/`, and the one of the posted file. `ref numbers` and `ref appendix` check the run's fingerprint against those two recorded versions and verify the posted file's integrity.
+
+New reviews may use the posted PDF. Sample recognition accepts either recorded fingerprint; generating numbers also verifies that the posted file still matches its recorded fingerprint. Historical run manifests continue to identify the original file exactly.
+
+The referee reports and the editor's decision letter are not posted; permission to publish the manuscript does not extend to them (v4 plan, Stage 2), and they are private communications between Organization Science, the authors, and the referees. Their substantive content, critique-level codes and locations, and distributions or comparisons revealing what they criticized are withheld from the public repository; coded results are reported in the technical appendix submitted with the proposal. Counts of reports and critiques and processing metadata may be published (see `docs/decisions/2026-10-21-correspondence-publication-scope.md`).

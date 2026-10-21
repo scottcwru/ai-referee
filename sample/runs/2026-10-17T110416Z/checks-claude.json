@@ -1,0 +1,47 @@
+{
+  "checks": [
+    {
+      "name": "form complete",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "name": "every critique names a location",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "name": "every Poor or Marginal score has a critique",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "name": "nothing fabricated (text matching)",
+      "pass": false,
+      "failures": {
+        "quotes not found in manuscript": [],
+        "numbers not found in manuscript": [
+          {
+            "critique": 7,
+            "number": "1011"
+          }
+        ],
+        "citations not in manuscript and not declared external": []
+      },
+      "for_human_verification": [
+        {
+          "critique": 14,
+          "citation": "Galinsky & Mussweiler (2001)",
+          "status": "declared external; verify by hand"
+        },
+        {
+          "critique": 14,
+          "citation": "Galinsky, A. D., & Mussweiler, T. (2001). First offers as anchors: The role of perspective-taking and negotiator focus. Journal of Personality and Social Psychology, 81(4), 657–669.",
+          "status": "declared external; verify by hand"
+        }
+      ]
+    }
+  ],
+  "all_pass": false,
+  "critique_count": 15
+}

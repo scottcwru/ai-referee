@@ -1,0 +1,306 @@
+{
+  "claude": [
+    {
+      "id": 1,
+      "text": "First, Study 2 does not include a no-disclosure condition. It therefore cannot speak to the mechanism behind the Study 1 inclusion effect.",
+      "location": "none"
+    },
+    {
+      "id": 2,
+      "text": "Second, the reported mediation results are inconsistent in sign. Two negative paths are reported as producing a negative indirect effect. Read correctly, the ambiguity pathway would predict that disclosure increases favorability, which is the opposite of Study 1. The General Discussion in fact draws that opposite conclusion and recommends disclosure.",
+      "location": "none"
+    },
+    {
+      "id": 3,
+      "text": "Third, the coding of 'high' terms reverses between studies. Study 2's own correlations show that term magnitude matters, which undercuts the claim that substantive attractiveness is irrelevant.",
+      "location": "none"
+    },
+    {
+      "id": 4,
+      "text": "Fourth, Study 1 lacks a placebo-slide control, does not test whether the high and low coefficients differ, and contains several numerical inconsistencies.",
+      "location": "none"
+    },
+    {
+      "id": 5,
+      "text": "Fifth, the mediator measures have serious validity problems, and the mediation claims rest on measured, not manipulated, mediators.",
+      "location": "none"
+    },
+    {
+      "id": 6,
+      "text": "I also note gaps in transparency: key results are 'available upon request.'",
+      "location": "none"
+    },
+    {
+      "id": 7,
+      "text": "There are also problems with the reference list and the theoretical framing.",
+      "location": "none"
+    },
+    {
+      "id": 8,
+      "text": "1. Study 2, Methods, p. 20; Hypotheses H2a–H2g, p. 19. Study 2 compares only 'high' (1) versus 'low' (0) deal-term values. Every participant sees a deal-terms slide; there is no condition without one. Yet H2a–H2g (p. 19) are each stated as mediating 'the relationship between deal-term inclusion and investor favorability.' Because inclusion is never manipulated in Study 2, none of these hypotheses is actually tested.\n\nThe Study 1 effect (presence vs. absence) and the Study 2 effect (magnitude) are different causal contrasts. A mediator of one need not mediate the other. The paper's central claim cannot be supported by this design: that ambiguity explains why disclosure reduces favorability. To identify the mechanism of the Study 1 effect, Study 2 would need to include a no-slide control and estimate mediation on the inclusion contrast. Ideally, it would also manipulate the proposed mediator, for example by varying the clarity of the deal slide independently of its presence.",
+      "location": "Study 2, Methods, p. 20; Hypotheses H2a–H2g, p. 19"
+    },
+    {
+      "id": 9,
+      "text": "2. Study 2 Results, pp. 22–23; Tables 10, 11, and 12. The reported indirect effects do not follow from the reported paths. Table 10 gives a = −0.27 for perceived ambiguity. Table 11 gives b = −0.21 (Success Odds), −0.24 (Good Business), −0.19 (Next Steps), and −0.18 (Share with Others). The product of two negative coefficients is positive (roughly +0.04 to +0.06). Table 12 instead reports −0.06, −0.07, −0.05, and −0.04, with confidence intervals entirely below zero. The same problem appears in Table 13.\n\nEither the paths, the indirect effects, or the variable coding are misreported. In substantive terms, the reported paths say that the 'high' condition lowers ambiguity and that lower ambiguity raises favorability. That would make the indirect effect positive. Please re-estimate and report the a, b, c, and c' paths with consistent coding, and provide the analysis code.",
+      "location": "Study 2 Results, pp. 22–23; Tables 10, 11, and 12"
+    },
+    {
+      "id": 10,
+      "text": "3. General Discussion, p. 25 and p. 28. The Discussion's narrative contradicts Study 1. On p. 25 the paper states that quantitative disclosure reduced perceived ambiguity and that 'this reduction in perceived ambiguity, in turn, increased investors’ willingness to engage.' The conclusion on p. 28 advises founders to clarify terms to elicit more favorable responses. Study 1, however, finds that including the deal slide lowers favorability on every measure.\n\nIf disclosure lowers ambiguity and lower ambiguity raises favorability, then ambiguity is pushing against the observed effect rather than explaining it. The paper needs a single coherent account of the direction of each path and of the practical recommendation. As written, the recommendation to founders is the opposite of what Study 1 implies.",
+      "location": "General Discussion, p. 25 and p. 28"
+    },
+    {
+      "id": 11,
+      "text": "4. Study 2 Results, p. 24; Table 9; Table 13. No total effect (c) or direct effect (c') is reported for Study 2, so the claim of full mediation cannot be evaluated. Table 9 shows negative correlations between condition and the outcomes (−.09 to −.14). The reported a and b paths, however, imply a positive indirect effect (see critique 2).\n\nThis pattern is inconsistent mediation (suppression), not full mediation. If correct, it means another unmeasured process must account for the negative total association, and that process would be larger than the ambiguity pathway.\n\nMore generally, non-significance of c' is not evidence of full mediation. Please report c, c', and the proportion mediated with confidence intervals, for each outcome. For Table 13, please state which outcome the multiple-mediator model refers to.",
+      "location": "Study 2 Results, p. 24; Table 9; Table 13"
+    },
+    {
+      "id": 12,
+      "text": "5. Study 1 Methods, p. 9; Study 2 Methods, p. 20; Abstract. The meaning of 'high' reverses between studies.\n- In Study 1 (p. 9), 'favorable (i.e., high) and unfavorable (i.e., low)' versions are defined 'from the investor’s perspective.'\n- In Study 2, 'high' denotes entrepreneur-favorable terms.\n\nThe two studies therefore cannot be compared on the magnitude dimension without clarification of what was actually shown.",
+      "location": "Study 1 Methods, p. 9; Study 2 Methods, p. 20; Abstract"
+    },
+    {
+      "id": 13,
+      "text": "Moreover, Table 9 shows that Study 2's magnitude manipulation itself lowers favorability (r = −.09 to −.14). That is, the substantive attractiveness of terms matters. This undercuts the Abstract's conclusion that transparency alters 'perceived informational clarity rather than the substantive attractiveness of the opportunity.'",
+      "location": "Table 9; Abstract"
+    },
+    {
+      "id": 14,
+      "text": "In Study 1, the claim that favorability is irrelevant rests on both high and low coefficients being negative (Tables 5–8). The paper never formally tests whether they differ, and reports no manipulation check showing that investors perceived the 'favorable' terms as favorable. Please report the actual values used for each deck and condition, a test of equality of the high and low coefficients, and a manipulation check.",
+      "location": "Study 1; Tables 5–8"
+    },
+    {
+      "id": 15,
+      "text": "6. Study 1 Methods, pp. 8–9. The treatment confounds deal-term content with the addition of any extra slide. Possible confounds include:\n- a longer deck;\n- a change in narrative flow;\n- a slide that may look visibly inserted.\n\nWithout a placebo condition, such as an added neutral slide of equal length and visual style, one cannot attribute the effect to deal terms specifically.",
+      "location": "Study 1 Methods, pp. 8–9"
+    },
+    {
+      "id": 16,
+      "text": "In addition, one manipulated dimension is 'the amount already committed' (p. 9). This is traction or social-proof information rather than a deal term in the sense of the research question. A low committed amount plausibly signals weak investor interest.",
+      "location": "Study 1 Methods, p. 9"
+    },
+    {
+      "id": 17,
+      "text": "The manuscript never shows an example of the deal slide, states where in the deck it was placed, or explains whether each slide displayed all four terms or only the manipulated one. Please provide the stimuli (e.g., in an online appendix) and discuss these alternative explanations.",
+      "location": "Study 1 Methods, pp. 8–9"
+    },
+    {
+      "id": 18,
+      "text": "7. Study 1 Results, pp. 11 and 13; Table 2 vs. Table 6; Table 7; Methods p. 8. Several numbers in Study 1 do not reconcile.\n- Sample size: 88 investors × 12 decks = 1,056, and 1,056 − 45 = 1,011, not the reported 1,008.\n- Table 2, Model 3: the pooled treatment coefficient for Next Steps is −0.11. In Table 6, Model 3, the separate high and low coefficients are −.16 and −.13. A pooled estimate with the same controls should lie between the two subgroup estimates.\n- Table 3 and Table 7: the pooled Good Business estimate is −.12, while the subgroup estimates are −.12 and −.09.\n- Table and text mismatch: the text on p. 13 assigns Good Business to Table 6 and Next Steps to Table 7, but the table titles are reversed.\n\nPlease audit all Study 1 estimates against the underlying data and correct the tables.",
+      "location": "Study 1 Results, pp. 11 and 13; Table 2 vs. Table 6; Table 7; Methods p. 8"
+    },
+    {
+      "id": 19,
+      "text": "8. Study 1 Results, pp. 10–13; Tables 1–8; Table 9. The coefficients are reported as β and appear to be standardized. R-squared values are 0.01–0.02 for the treatment-only models. The reader therefore cannot judge whether the effects are 'substantive.'\n\nPlease report unstandardized effects in the original scale units (Likert points; percentage points of exit probability), along with standard errors and effect sizes.",
+      "location": "Study 1 Results, pp. 10–13; Tables 1–8; Table 9"
+    },
+    {
+      "id": 20,
+      "text": "The Success Odds variable is also unclear. On p. 10 it is defined as 'the sum of the probabilities' across four exit thresholds, each elicited on a 0–100 scale. In Table 9, however, it has a mean of 1.72 and SD of 0.84. Please explain the scaling.",
+      "location": "p. 10; Table 9"
+    },
+    {
+      "id": 21,
+      "text": "Finally, summing probabilities of nested events (P(exit ≥ $50M) ≥ P(exit ≥ $100M) …) produces a quantity without a clear interpretation. Consider a more defensible summary or report the thresholds separately.",
+      "location": "Study 1 Results, pp. 10–13"
+    },
+    {
+      "id": 22,
+      "text": "9. Study 2 Methods, p. 21; Appendix Table S1. The mediator measures have serious validity problems.\n\n1. The ambiguity items are about 'missing' or 'not fully spelled out' metrics. In Study 2, every condition displays the metrics; only their magnitude varies. It is unclear what these items capture there.",
+      "location": "Study 2 Methods, p. 21; Appendix Table S1"
+    },
+    {
+      "id": 23,
+      "text": "2. One ambiguity item reads 'Ambiguous information about this deck reduced my willingness to invest.' This embeds the outcome in the mediator, mechanically inflating the b path.",
+      "location": "Study 2 Methods, p. 21; Appendix Table S1"
+    },
+    {
+      "id": 24,
+      "text": "3. The loss aversion items (e.g., 'Avoiding losses matters more to me than achieving gains') largely measure a dispositional preference. A trait is not a plausible mediator of a within-subject manipulation.",
+      "location": "Study 2 Methods, p. 21; Appendix Table S1"
+    },
+    {
+      "id": 25,
+      "text": "4. The 'cognitive load' items (reliance on initial impressions, accepting information without scrutiny) measure heuristic processing rather than load.",
+      "location": "Study 2 Methods, p. 21; Appendix Table S1"
+    },
+    {
+      "id": 26,
+      "text": "5. On p. 21 the scales are described as 'brief validated scales,' but the items appear to be newly written adaptations. No validation evidence (factor structure, discriminant validity) is presented. No alpha is reported for loss aversion in the Table S1 note.\n\nPlease provide psychometric evidence, including a confirmatory factor analysis across all seven constructs. Please also explain how items referring to missing information apply to conditions in which nothing was missing.",
+      "location": "Study 2 Methods, p. 21; Appendix Table S1"
+    },
+    {
+      "id": 27,
+      "text": "10. Table 9; Appendix Table S1 (Decision avoidance items); Study 2 Methods pp. 21–22. The decision-avoidance items use nearly the same wording as the ambiguity items ('missing or vague key metrics'). Yet Table 9 reports r = .10 between the two constructs. More broadly, all seven mediators show near-zero intercorrelations (mostly .01–.12). For conceptually overlapping self-reports collected from the same respondent about the same deck, this pattern is unusual. It warrants explanation and a check of the data processing.",
+      "location": "Table 9; Appendix Table S1; Study 2 Methods pp. 21–22"
+    },
+    {
+      "id": 28,
+      "text": "The manuscript also does not report the order in which mediators and outcomes were measured.",
+      "location": "Study 2 Methods pp. 21–22"
+    },
+    {
+      "id": 29,
+      "text": "Measured mediators also leave the b path unidentified causally: any variable that affects both perceived ambiguity and favorability would generate the observed association.\n\nPlease report measurement order and the within- and between-person correlations separately (the data are multilevel). Please also discuss the sequential-ignorability assumption, or use a design that manipulates the mediator.",
+      "location": "Study 2 Methods pp. 21–22"
+    },
+    {
+      "id": 30,
+      "text": "11. Study 1 Methods p. 8; Study 2 Methods p. 20; General Discussion p. 27. The samples do not support the description in the limitations section.\n- Study 1 'investors' (mean age 28.1) needed only to have 'previously evaluated at least one early-stage startup.' Recruitment channels, investment history, and the investor-experience controls mentioned on p. 15 are not described.\n- Study 2 uses Prolific participants screened only for 'previous exposure to entrepreneurial or investment decision-making.' These are not investors.\n\nThe mechanism is thus inferred in a population that differs substantially from the one in which the effect was found. The claim on p. 26 that the findings 'hold strongly in terms of ecological validity' is not warranted.\n\nPlease describe both samples in detail, and test whether the Study 1 effect replicates in the Study 2 population, and vice versa. Please also temper the generalizability claims.",
+      "location": "Study 1 Methods p. 8; Study 2 Methods p. 20; General Discussion p. 27, p. 26, p. 15"
+    },
+    {
+      "id": 31,
+      "text": "12. Footnotes 1, 2, and 4 (pp. 10, 12, 24); Study 2 Methods p. 22. Substantial parts of the evidence are not reported:\n- models with demographic controls (fn. 1);\n- the dimension-specific and item-level robustness checks (fn. 2; pp. 13–14);\n- the a and b path tables for non-supported mediators (fn. 4);\n- the per-deal-factor mediation models described on p. 22 ('as were each of the four deal-factor contexts');\n- the random-effects and outlier-exclusion analyses mentioned on pp. 14–15.",
+      "location": "Footnotes 1, 2, and 4 (pp. 10, 12, 24); Study 2 Methods p. 22; pp. 13–15"
+    },
+    {
+      "id": 32,
+      "text": "The manuscript also does not mention preregistration, power analysis, attention checks, exclusion criteria, or ethics approval. Given the journal's emphasis on methodological transparency, these results should appear in an online appendix, together with materials, data, and code.",
+      "location": "none"
+    },
+    {
+      "id": 33,
+      "text": "13. Study 2 Conceptual Framework, pp. 15–19; Introduction p. 5. The theoretical development is a list of seven mechanisms, each summarized in a paragraph, without signed predictions. It does not say which mechanism should predict lower versus higher favorability, nor how they could be discriminated.",
+      "location": "Study 2 Conceptual Framework, pp. 15–19; Introduction p. 5"
+    },
+    {
+      "id": 34,
+      "text": "The ambiguity account is especially underdeveloped. On pp. 15–16 the paper argues that quantitative information reduces ambiguity, which should raise favorability. But it offers no reason why ambiguity would explain a negative effect of disclosure, or why higher (entrepreneur-favorable) values would be less ambiguous than lower ones.",
+      "location": "Study 2 Conceptual Framework, pp. 15–16"
+    },
+    {
+      "id": 35,
+      "text": "The construct also slips. The paper claims to pinpoint 'ambiguity aversion' (p. 5), which is an attitude toward imprecise probabilities. What it measures is perceived ambiguity of the deck, which is a different construct.\n\nA stronger contribution would derive differentiated predictions across conditions (presence, magnitude, precision) that distinguish the mechanisms. It would also connect the account to theory on disclosure and information in entrepreneurial finance.",
+      "location": "Introduction p. 5"
+    },
+    {
+      "id": 36,
+      "text": "14. Introduction pp. 2–5; Study 1 Conceptual Framework p. 7; Study 2 p. 15; References. The reference list is incomplete. Numerous in-text citations do not appear in the reference list, including:\n- Florida & Kenney (1988)\n- Roure et al. (1986)\n- Gompers et al. (2020)\n- Miloud et al. (2012)\n- Obloj & Zenger (2017)\n- Drover et al. (2018)\n- Zacharakis & Shepherd (2001)\n- Agarwal et al. (2025)\n- Camuffo et al. (2020)\n- Hallen & Piezunka (2023)\n- Feld & Cohen (2019)\n- Shane et al. (2020), the source of the 'validated' outcome scale\n- Pitching Angels (2021)\n- Szymanski (2021)",
+      "location": "Introduction pp. 2–5; Study 1 Conceptual Framework p. 7; Study 2 p. 15; References"
+    },
+    {
+      "id": 37,
+      "text": "'Petty and Gruber, 2021' on p. 7 appears to be the 2011 article in the reference list.",
+      "location": "p. 7; References"
+    },
+    {
+      "id": 38,
+      "text": "Several citations are tangential to the claims they support. Examples include Cooper & Fang (2008) on auction overbidding (p. 15), Dai, Milkman & Riis (2014, 2015) on the fresh-start effect (pp. 5, 17), and Larkin (2014) on sales incentives (p. 17).",
+      "location": "p. 5, 15, 17"
+    },
+    {
+      "id": 39,
+      "text": "Meanwhile, directly relevant literatures are missing. These include work on first offers and price disclosure in negotiation (e.g., Galinsky & Mussweiler, 2001) and empirical work on how investors process valuation and term information. Engaging this work would sharpen the theory about why stating an ask might lower interest.",
+      "location": "none"
+    },
+    {
+      "id": 40,
+      "text": "15. Study 1 Results p. 11; Study 2 Methods p. 20; Introduction p. 4. The writing needs careful editing.\n- There are typos and a fragmentary sentence on p. 11.",
+      "location": "Study 1 Results p. 11; Study 2 Methods p. 20; Introduction p. 4"
+    },
+    {
+      "id": 41,
+      "text": "- Table numbering does not match the text (Tables 6 and 7).",
+      "location": "Tables 6 and 7"
+    },
+    {
+      "id": 42,
+      "text": "- Study 2 is described inconsistently. On p. 20, participants view 'versions of the same startup pitch,' yet the same paragraph says each 'evaluated 12 independent startup pitches.' It is unclear how many distinct decks were used and whether participants saw the same deck twice.",
+      "location": "Study 2 Methods p. 20"
+    },
+    {
+      "id": 43,
+      "text": "- The Introduction (p. 4) states that the effect 'is robust across startups, industries.' No industry-level analysis is reported.",
+      "location": "Introduction (p. 4)"
+    },
+    {
+      "id": 44,
+      "text": "- Results sections repeat the same sentence structure model by model. A compact table of treatment effects across outcomes and specifications would communicate the findings more clearly.",
+      "location": "Results sections"
+    }
+  ],
+  "chatgpt": [
+    {
+      "id": 1,
+      "text": "The core contribution depends on connecting Study 1’s inclusion manipulation to Study 2’s mediation model, but Study 2 manipulates high versus low numerical framing rather than inclusion versus omission.",
+      "location": "none"
+    },
+    {
+      "id": 2,
+      "text": "More importantly, the reported signs in the Study 2 mediation model are internally inconsistent: the a and b paths reported in the manuscript imply an indirect effect opposite in sign to the one reported.",
+      "location": "none"
+    },
+    {
+      "id": 3,
+      "text": "The mediation results appear mathematically inconsistent with the reported a and b paths. On the same page, the manuscript states that the manipulation “significantly reduced perceived ambiguity (β = −0.27, t = −4.21, p < .001)” and that perceived ambiguity negatively predicted outcomes, including “Success Odds (β = −0.21, t = −3.86, p < .001).” A negative a path multiplied by a negative b path should yield a positive indirect effect, not the negative indirect effects reported in Table 12. This sign problem is not a minor reporting issue because it changes the substantive interpretation: the text says higher numerical framing reduces ambiguity and ambiguity reduces favorability, which implies higher framing should improve favorability through ambiguity. Yet Table 9 and Table 12 present negative associations with favorability. The manuscript’s central mediation claim cannot be evaluated until this inconsistency is resolved.",
+      "location": "Page 23, Study 2 Results and Tables 10–12"
+    },
+    {
+      "id": 4,
+      "text": "Study 2 does not test the mechanism for the effect established in Study 1. Study 1 manipulates whether a deal-terms slide is included or omitted, whereas Study 2 manipulates high versus low numerical values on a deal-terms slide. This is a different causal contrast. As a result, Study 2 cannot establish that perceived ambiguity mediates the effect of “deal-term inclusion” unless inclusion itself is manipulated in Study 2 or the link between the two manipulations is otherwise justified. The hypothesis language on page 19 refers to “deal-term inclusion,” but the method tests “numerical framing.” This disconnect weakens the theoretical and causal chain across the two studies.",
+      "location": "Page 20, Study 2 Methods"
+    },
+    {
+      "id": 5,
+      "text": "The conclusions oscillate between saying deal-term disclosure reduces investor favorability and saying quantitative clarity improves investor responses. For example, page 25 says “Quantitative disclosure reduced the sense of informational vagueness surrounding an early-stage venture, and this reduction in perceived ambiguity, in turn, increased investors’ willingness to engage,” while page 28 concludes that founders can elicit more favorable responses “By clarifying, rather than concealing ambiguity.” These statements conflict with the quoted claim from page 24 and with the Study 1 finding that inclusion reduces favorability. The manuscript needs a single coherent account of whether disclosure increases or decreases investor favorability and under what causal contrast.",
+      "location": "Page 24, General Discussion"
+    },
+    {
+      "id": 6,
+      "text": "The Study 1 treatment confounds deal-term disclosure with adding an extra slide. Because the control decks are original decks and the treatment decks contain an added slide, the estimated effect could reflect deck length, interruption of narrative flow, perceived artificiality, design inconsistency, or the salience of any additional information rather than financial-term disclosure per se. A stronger design would include a placebo added-slide condition or otherwise equalize slide count and attention across conditions. Without this, the causal interpretation “deal-term disclosure reduces investor favorability” is less secure.",
+      "location": "Page 8, Study 1 Methods"
+    },
+    {
+      "id": 7,
+      "text": "The focal mediator is contaminated with the outcome. One ambiguity-aversion item directly asks whether ambiguity reduced “my willingness to invest,” which is conceptually very close to the dependent variables “Next Steps” and “Share with Others.” This overlap can mechanically inflate mediation estimates because the mediator partly measures the same evaluative response that it is supposed to explain. More broadly, the construct is labeled “ambiguity aversion,” but the items mostly measure perceived ambiguity, trust, confidence, and reluctance rather than a preference over known versus unknown probabilities. The theory and measurement need to distinguish perceived ambiguity from aversion to ambiguity and from investment favorability.",
+      "location": "Page 46, Appendix Table S1"
+    },
+    {
+      "id": 8,
+      "text": "Several alternative mediator measures appear to overlap with perceived ambiguity, making the comparison among mechanisms hard to interpret. The decision-avoidance items repeatedly refer to “missing or vague key metrics,” which is very close to the ambiguity construct. Similarly, the cognitive-load items on page 48 include statements such as “I relied on my initial impressions rather than deeply evaluating all the deck’s details,” which measure heuristic processing more than cognitive load. If the competing mediators are not cleanly measured, the conclusion that ambiguity is the “single dominant pathway” is premature.",
+      "location": "Page 50, Appendix Table S1"
+    },
+    {
+      "id": 9,
+      "text": "The manuscript repeatedly describes the evidence as involving real investor evaluations, but the qualification threshold for Study 1 is minimal and the investor sample is not described in enough detail. Having “previously evaluated at least one early-stage startup” could include a wide range of experience levels, and the manuscript does not report how many participants were active angels, venture capitalists, accelerator mentors, analysts, or otherwise professionally involved in investing. The issue becomes stronger in Study 2, where page 20 states that participants were “recruited through Prolific.” The conclusions should be narrowed, or the manuscript should provide more detailed evidence that the samples represent the investor population to which the theory is meant to apply.",
+      "location": "Page 8, Study 1 Methods"
+    },
+    {
+      "id": 10,
+      "text": "The statistical models do not appear to fully reflect the repeated and crossed structure of the data. Each respondent evaluates multiple decks, and each startup deck is evaluated by many respondents. Clustering only by respondent handles one source of dependence but not shared deck-level shocks or treatment heterogeneity across startups. The company-control models help with mean differences across decks, but they do not substitute for appropriate uncertainty estimation under repeated observations by deck. Study 2 has a related issue: page 22 says models use “random intercepts for participants,” but the pitches are again repeatedly evaluated. The analysis should consider cross-classified models, deck fixed effects with appropriate clustering, or other specifications that match the experimental assignment and dependence structure.",
+      "location": "Page 10, Study 1 Results"
+    },
+    {
+      "id": 11,
+      "text": "The tables do not provide enough statistical information to interpret the magnitude and precision of the effects. The coefficient scale is unclear: for example, page 10 defines Success Odds as “the sum of the probabilities” across four exit thresholds, but Table 1 reports coefficients such as “-.11.” It is not clear whether these are raw coefficients, standardized coefficients, or transformed outcomes. The tables also omit standard errors and confidence intervals. Given that the R-squared values are small, readers need transparent effect sizes, outcome means, and uncertainty estimates to assess substantive importance.",
+      "location": "Table 1, Page 33"
+    },
+    {
+      "id": 12,
+      "text": "Important robustness and alternative-mechanism analyses are not reported. Because the manuscript’s contribution depends on ruling out six candidate mechanisms, the omitted mediation tables are central rather than ancillary. A similar issue appears in footnote 1 on page 10, where the manuscript says additional regressions “are available upon request.” For a paper making strong causal and mechanistic claims, the full model outputs, robustness checks, and exclusion criteria should be included in the manuscript or appendix rather than unavailable to readers and reviewers.",
+      "location": "Page 24, Footnote 4"
+    },
+    {
+      "id": 13,
+      "text": "The definition of high and low deal terms is inconsistent across studies. In Study 1, “high” is described as favorable from the investor’s perspective, but in Study 2 page 20 says “High values were intended to represent more aggressive, entrepreneur-favorable deal positions, while low values reflected conservative or investor-favorable terms.” These are opposite interpretations. This inconsistency matters because the manuscript interprets high versus low terms as robustness evidence in Study 1 and as the key causal contrast in Study 2. The authors should clarify exactly which terms are high or low, favorable to whom, and how those labels map onto the theory.",
+      "location": "Page 9, Study 1 Methods"
+    },
+    {
+      "id": 14,
+      "text": "The theory development is largely exploratory despite being framed as hypothesis testing. Study 1 presents opposing hypotheses, and Study 2 lists seven candidate mechanisms without a priori expectations about dominance. Testing multiple mechanisms can be valuable, but the manuscript needs sharper theorizing about why ambiguity should dominate in this setting, when other mechanisms should matter, and what boundary conditions distinguish the mechanisms. Without this, the theoretical contribution is closer to post hoc mechanism selection than to theory development.",
+      "location": "Page 19, Study 2 Conceptual Framework and Hypotheses"
+    },
+    {
+      "id": 15,
+      "text": "The manuscript needs careful editing for grammar, consistency, and presentation. The quoted sentence contains a typographical error and is difficult to parse.",
+      "location": "Page 11, Study 1 Results"
+    },
+    {
+      "id": 16,
+      "text": "More importantly, similar clarity problems appear in the substantive argument, where the manuscript alternates between “deal-term inclusion,” “deal-term framing,” “quantitative specificity,” and “high versus low values” without consistently distinguishing these constructs. Cleaner writing would help readers follow the causal claims and would also expose where additional theoretical clarification is needed.",
+      "location": "Page 11, Study 1 Results"
+    }
+  ]
+}

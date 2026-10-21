@@ -1,0 +1,114 @@
+{
+  "run_id": "2026-10-17T121446Z",
+  "reviewer_run": "2026-10-17T110416Z",
+  "grader": {
+    "vendor": "google",
+    "model": "gemini-3.8-flash",
+    "settings": {
+      "temperature": "model default (Google advises against lowering it on Gemini 3 models)",
+      "response_mime_type": "application/json",
+      "thinking": "model default",
+      "max_output_tokens": 8192
+    },
+    "price_per_million": {
+      "input": 0.75,
+      "output": 3.75,
+      "cache_read": 0.0
+    },
+    "price_note": "Paid-tier rates as reported by third-party pricing pages on 2026-10-17 (Google's own pricing page refused automated access); to be confirmed against ai.google.dev/pricing. No cached content is used, so the cache-read rate is not applied. Output price covers thinking tokens."
+  },
+  "prompt": {
+    "template": "grader/prompt.md",
+    "segment_template": "grader/prompt-segment.md",
+    "as_sent_sha256": "37d359c17eb5e3980ebe8cec5a25471bdc086efe0db3fa991e7e8ea4190354e7",
+    "codebook_sha256": "b8171d64be1a147aa1bda8e5021af35ac043b36227cdea907e1cbe7ba8b24d98",
+    "instructions_sha256": "05e4d9deafb03e7caea769c7b1f7e53f70e572f7dced0f0dbf852a361072b2e4"
+  },
+  "reviews_coded": [
+    {
+      "review": "claude",
+      "arm": "ai",
+      "words": 2579,
+      "text_in_repository": true
+    },
+    {
+      "review": "chatgpt",
+      "arm": "ai",
+      "words": 1523,
+      "text_in_repository": true
+    }
+  ],
+  "keys_file": "sample-private\\keys.env",
+  "totals": {
+    "calls": 16,
+    "failed_calls": 10,
+    "input_tokens": 36564,
+    "cache_read_tokens": 0,
+    "output_tokens": 9539,
+    "elapsed_seconds": 663.5,
+    "cost_usd": 0.0632,
+    "models_served": [
+      "gemini-3.8-flash"
+    ]
+  },
+  "failures": [
+    {
+      "review": "claude",
+      "step": "segment",
+      "error": "JSONDecodeError: Expecting ',' delimiter: line 27 column 6 (char 1113)"
+    },
+    {
+      "review": "chatgpt",
+      "step": "segment",
+      "error": "JSONDecodeError: Expecting ',' delimiter: line 12 column 6 (char 566)"
+    }
+  ],
+  "calls": [
+    {
+      "label": "segment:claude",
+      "started_utc": "2026-10-17T12:14:46+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "input_tokens": 4196,
+      "cache_read_tokens": 0,
+      "output_tokens": 8185,
+      "elapsed_seconds": 49.8,
+      "error": "JSONDecodeError: Expecting ',' delimiter: line 27 column 6 (char 1113)"
+    },
+    {
+      "label": "segment:claude",
+      "started_utc": "2026-10-17T12:14:46+00:00",
+      "retries": 0,
+      "model_served": "gemini-3.8-flash",
+      "input_tokens": 4196,
+      "cache_read_tokens": 0,
+      "output_tokens": 8185,
+      "elapsed_seconds": 49.8,
+      "error": "JSONDecodeError: Expecting ',' delimiter: line 27 column 6 (char 1113)"
+    },
+    {
+      "label": "segment:chatgpt",
+      "started_utc": "2026-10-17T12:15:36+00:00",
+      "retries": 3,
+      "model_served": "gemini-3.8-flash",
+      "input_tokens": 2276,
+      "cache_read_tokens": 0,
+      "output_tokens": 8185,
+      "elapsed_seconds": 92.4,
+      "error": "JSONDecodeError: Expecting ',' delimiter: line 12 column 6 (char 566)"
+    },
+    {
+      "label": "segment:chatgpt",
+      "started_utc": "2026-10-17T12:15:36+00:00",
+      "retries": 3,
+      "model_served": "gemini-3.8-flash",
+      "input_tokens": 2276,
+      "cache_read_tokens": 0,
+      "output_tokens": 8185,
+      "elapsed_seconds": 92.4,
+      "error": "JSONDecodeError: Expecting ',' delimiter: line 12 column 6 (char 566)"
+    }
+  ],
+  "finished_utc": "2026-10-17T12:20:58+00:00",
+  "journal_reviews_withheld": "The referee reports and decision letter were also coded in this run; their entries are withheld from the public repository and reported in the technical appendix. Totals include them."
+}
